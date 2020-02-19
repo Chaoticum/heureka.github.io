@@ -19,7 +19,10 @@ Hned zjara jsme začali s první fází výzkumu, explorační. Cílem první f�
 
 Rozhovory s lidmi nás v některých směrech šokovaly. Třeba v tom, že uživatelům se náš starý (a námi interně celkem nenáviděný) dárkový rádce na Heurece líbil. 😊 Při uživatelském testování většina říkala, jak je to pěkný web, jsou na něm zajímavé dárky, možná by jich tam jen chtěli víc. Cesta k nákupu vybraného dárku byla taky hladká, žádný problém. Z dat jsme ale věděli, že tady lidé reálně čas netráví a na nabízené produkty neklikají, natož aby je kupovali. Tak v čem byl problém?
 
-![Staré Dárky na Heurece](/assets/nove-darky-na-heurece/darky-old.png){: width="600px"}
+{% include image.html
+            img="/assets/nove-darky-na-heurece/darky-old.png"
+            title="Staré Dárky na Heurece"
+            width="600px" %}
 
 ### Začínáme chápat souvislosti
 
@@ -44,11 +47,17 @@ Následovala fáze designování nového dárkového rádce. Nejprve jsme se pus
 
 **Prototyp desktop:**
 
-![Prototyp Dárků na Heurece](/assets/nove-darky-na-heurece/darky-prototyp.png){: width="550px"}
+{% include image.html
+            img="/assets/nove-darky-na-heurece/darky-prototyp.png"
+            title="Prototyp Dárků na Heurece"
+            width="550px" %}
 
 **Prototyp mobil:**
 
-![Prototyp Dárků na Heurece mobil](/assets/nove-darky-na-heurece/darky-prototyp-m.png){: width="300px"}
+{% include image.html
+            img="/assets/nove-darky-na-heurece/darky-prototyp-m.png"
+            title="Prototyp Dárků na Heurece mobil"
+            width="300px" %}
 
 S designem opět pomohli uživatelé. Na základě testování prototypů jsme odladili věci jako stále ještě velkou nabídku filtrů na úvodní stránce a chybějící samostatný filtr na děti, protože ho tam lidé očekávali a naopak nečekali panenky a plyšáky pod filtrem „žena“. Nový rádce se nám už rýsoval. Náš dvorní designer Filip Čapský připravil finální vzhled a grafiku a mohlo se jít do výroby.
 
@@ -66,7 +75,10 @@ Byl začátek listopadu a nový dárkovač šel ven. Včetně mohutné kampaně,
 
 Kampaň proběhla na displayových plochách na všech velkých českých webech, na Facebooku a Instagramu a poslali jsme info o novém rádci i na naši velmi širokou e-mailovou databázi. Zároveň jsme se domluvili s jednotkami influencerů, aby rádce na svých kanálech ukázali a zpropagovali.
 
-![Marketing Dárků na Heurece](/assets/nove-darky-na-heurece/darky-marketing.gif){: width="600px"}
+{% include image.html
+            img="/assets/nove-darky-na-heurece/darky-marketing.gif"
+            title="Marketing Dárků na Heurece"
+            width="600px" %}
 
 ## Výsledky
 
@@ -84,7 +96,9 @@ Sečteno a podtrženo. Novému dárkovači se daří zaujmout pozornost uživate
 
 Zároveň si ale nemyslíme, že je produkt dokonalý a úplně dokončený. Už teď je v plánu nové uživatelské testování s cílem dalšího vylepšování.
 
-![Výzkum Dárků na Heurece](/assets/nove-darky-na-heurece/darky-vyzkum.jpg)
+{% include image.html
+            img="/assets/nove-darky-na-heurece/darky-vyzkum.jpg"
+            title="Výzkum Dárků na Heurece" %}
 
 ## Souhrn šesti klíčových faktorů úspěšného projektu
 
@@ -100,4 +114,6 @@ Zároveň si ale nemyslíme, že je produkt dokonalý a úplně dokončený. Už
 
 1. V neposlední řadě vděčíme za úspěch [OKR metodice](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), kterou jsme loni zavedli a posunuli na celofiremní úroveň. Jedním z cílů bylo posilovat Heureku jako nákupního rádce. Do tohoto cíle nám vytvoření nového dárkovače krásně zapadlo, díky čemuž se projektu mohl intenzivně věnovat každý člen týmu.
 
-![Nové dárky na Heurece](/assets/nove-darky-na-heurece/darky-new.png)
+{% include image.html
+            img="/assets/nove-darky-na-heurece/darky-new.png"
+            title="Nové dárky na Heurece" %}
