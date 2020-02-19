@@ -127,3 +127,13 @@
 .site-post_gdpr-note {
     font-size: 0.75em;
 }
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        font-size: 0.8em;
+        margin-top: $spacing-unit / 2;
+    }
+}
