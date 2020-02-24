@@ -5,7 +5,7 @@ permalink: /nove-darky-na-heurece/
 date: 2020-02-17 13:04:00 +0200
 author: Romana Trusínová a Michaela Koucká
 tags: productdiscovery frontend
-categories: [blog design]
+categories: [blog, design]
 imageUrl: /assets/nove-darky-na-heurece/darky-vyzkum.jpg
 ---
 
