@@ -3,7 +3,7 @@ layout: post
 title: "Nové Dárky na Heurece: Jak jsme nedělali to, co uživatelé chtějí, a díky tomu zdvojnásobili tržby"
 permalink: /nove-darky-na-heurece/
 date: 2020-02-24 13:19:00 +0200
-author: Romana Trusínová a Michaela Koucká
+author: Romana Trusinová a Michaela Koucká
 tags: productdiscovery frontend
 categories: [blog, design]
 imageUrl: /assets/nove-darky-na-heurece/darky-vyzkum.jpg
