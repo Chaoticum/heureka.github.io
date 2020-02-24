@@ -100,19 +100,19 @@ Zároveň si ale nemyslíme, že je produkt dokonalý a úplně dokončený. Už
             img="/assets/nove-darky-na-heurece/darky-vyzkum.jpg"
             title="Výzkum Dárků na Heurece" %}
 
-## 6 klíčových faktorů úspěšného projektu
+## 6 kroků k úspěšnému projektu
 
-1. S pozorováním a dotazováním uživatelů se začalo opravdu na začátku, než se udělalo jediné rozhodnutí nebo čárka na papíře. V této fázi je totiž uživatelský výzkum nejefektivnější a ušetří nejvíc času i peněz v budoucnu.
+1. Před jakýmkoliv rozhodnutím začněte s pozorováním a dotazováním uživatelů. V této fázi je uživatelský výzkum nejefektivnější a ušetří nejvíc času i peněz do budoucna.
 
-1. Projekt měl celou dobu na starosti jeden produkťák, který byl osobně přítomný i u téměř všech uživatelských rozhovorů a testů. Informace se nikde „cestou neztrácely“ a postupovali jsme velmi konzistentně.
+1. Určete na projekt jednoho produkťáka, který bude osobně přítomný i u téměř všech uživatelských rozhovorů a testů. Informace se tak nikde „cestou neztratí“ a postupujete velmi konzistentně.
 
-1. Využili jsme externí vývoj a netříštili jsme focus našim vývojářům, kteří se mohli věnovat vylepšování zásadních částí Heureky.
+1. Pokud možno využijte externí vývoj, abyste netříštili focus vašim vývojářům, kteří se tak mohou věnovat vylepšování vašeho hlavního produktu (v našem případě částem Heureky).
 
-1. Rozvrhli jsme harmonogram dárkovače tak, abychom ho stihli dokončit před vánoční sezónou, kdy je využíván nejvíce.
+1. Rozvrhněte si harmonogram projektu tak, abyste ho stihli dokončit před klíčovou sezónou.
 
-1. Vytvořili jsme cross-functional tým z různých oddělení, v kterém měl každý na starost svoji část – od UX a výzkumu, externího vývoje, content oddělení, až po SEO, analytiku a marketingové oddělení. A to celé zastřešené produktovým oddělením.
+1. Vytvořte cross-functional tým z různých oddělení, v kterém bude mít každý na starost svoji část – od UX a výzkumu, externího vývoje, content oddělení, až po SEO, analytiku a marketingové oddělení. A to celé zastřešte produktovým oddělením.
 
-1. V neposlední řadě vděčíme za úspěch [OKR metodice](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), kterou jsme loni zavedli a posunuli na celofiremní úroveň. Jedním z cílů bylo posilovat Heureku jako nákupního rádce. Do tohoto cíle nám vytvoření nového dárkovače krásně zapadlo, díky čemuž se projektu mohl intenzivně věnovat každý člen týmu.
+1. Stanovte si správné cíle, které se budou dobře měřit. V průběhu projektu pak kontrolujte, zda je stále plníte. Nám pomohla [OKR metodika](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), kterou jsme loni zavedli a posunuli na celofiremní úroveň.
 
 Na nové dárky se můžete podívat na [darky.heureka.cz](https://darky.heureka.cz/).
 
