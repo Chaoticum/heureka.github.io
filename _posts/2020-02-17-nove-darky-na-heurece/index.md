@@ -2,7 +2,7 @@
 layout: post
 title: "Nové Dárky na Heurece: Jak jsme nedělali to, co uživatelé chtějí, a díky tomu zdvojnásobili tržby"
 permalink: /nove-darky-na-heurece/
-date: 2020-02-17 13:04:00 +0200
+date: 2020-02-24 13:19:00 +0200
 author: Romana Trusínová a Michaela Koucká
 tags: productdiscovery frontend
 categories: [blog, design]
@@ -100,7 +100,7 @@ Zároveň si ale nemyslíme, že je produkt dokonalý a úplně dokončený. Už
             img="/assets/nove-darky-na-heurece/darky-vyzkum.jpg"
             title="Výzkum Dárků na Heurece" %}
 
-## Souhrn šesti klíčových faktorů úspěšného projektu
+## 6 klíčových faktorů úspěšného projektu
 
 1. S pozorováním a dotazováním uživatelů se začalo opravdu na začátku, než se udělalo jediné rozhodnutí nebo čárka na papíře. V této fázi je totiž uživatelský výzkum nejefektivnější a ušetří nejvíc času i peněz v budoucnu.
 
@@ -113,6 +113,8 @@ Zároveň si ale nemyslíme, že je produkt dokonalý a úplně dokončený. Už
 1. Vytvořili jsme cross-functional tým z různých oddělení, v kterém měl každý na starost svoji část – od UX a výzkumu, externího vývoje, content oddělení, až po SEO, analytiku a marketingové oddělení. A to celé zastřešené produktovým oddělením.
 
 1. V neposlední řadě vděčíme za úspěch [OKR metodice](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/), kterou jsme loni zavedli a posunuli na celofiremní úroveň. Jedním z cílů bylo posilovat Heureku jako nákupního rádce. Do tohoto cíle nám vytvoření nového dárkovače krásně zapadlo, díky čemuž se projektu mohl intenzivně věnovat každý člen týmu.
+
+Na nové dárky se můžete podívat na [darky.heureka.cz](https://darky.heureka.cz/).
 
 {% include image.html
             img="/assets/nove-darky-na-heurece/darky-new.png"
