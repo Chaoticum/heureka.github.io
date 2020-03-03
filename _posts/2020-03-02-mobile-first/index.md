@@ -2,7 +2,7 @@
 layout: post
 title: "Discovery & mobile first, aneb jak připravujeme novou responzivní Heureku"
 permalink: /jak-pripravujeme-novou-responzivni-heureku/
-date: 2020-03-02 14:26:00 +0200
+date: 2020-03-03 10:26:00 +0200
 author: Martin Humpál
 tags: productdiscovery frontend měnímeheureku
 categories: [blog, design]
