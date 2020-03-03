@@ -25,7 +25,7 @@ Mobilní Heureka je pro nás ideální playground, kde můžeme začít s klíč
       img="/assets/mobile-first/3-testing.png"
       title="Uživatelské testování" %}
 
-## #3 MVP vs MLP
+## #2 MVP vs MLP
 V produktovém týmu se často rozhodujeme, co pro nové části Heureky konkrétně znamená MVP (minimum viable product) a co MLP (minimum lovable product).
 
 MVP verzi testujme, abychom si ověřili hlavně její výkon, ale cílem každé produktové oblasti je MLP. V každém projektu si definujeme zvlášť, co je testovatelná verze a co je verze, kterou můžeme pustit do světa mezi lidi. Občas nám pozitivní výsledky ukáže už MVP, s čímž se ale nespokojíme – naším cílem je doručit uživatelům MLP.
@@ -37,7 +37,7 @@ MVP verzi testujme, abychom si ověřili hlavně její výkon, ale cílem každ�
       title="MVP vs. MLP" %}
 
 
-## #4 Styleguide
+## #3 Styleguide
 Vytvořili jsme knihovnu grafických elementů – Heureka styleguide, která nám pomáhá udržet jednotný vizuální styl napříč Heurekou. Do styleguide jsme umístili tlačítka, ikony či labely a postupně do ní vkládáme složitější komponenty jako jsou produktové karty, shopnabídky a jejich interakce.
 
 Největší výhodou společné styleguide je, že pokud někdo z jiných týmů/vývojářů potřebuje do svého produktu přidat komponentu nebo element (např. tlačítko), stačí použít správnou CSS třídu s HTML kódem a je hotovo.
@@ -52,7 +52,7 @@ Naší styleguide najdete na adrese [https://heureka.cz/ui/](https://heureka.cz/
       width="550px"
       %}
 
-## #5 AB testy
+## #4 AB testy
 
 První test na IP kanceláří, následně postupný náběh trafficu
 
@@ -70,7 +70,7 @@ Získáváme tak postupně feedback, jak si vedou jednotlivé verze a ladíme to
 
 #dyckyTESTUJEME
 
-## #7 Zpětná vazba na novou verzi
+## #5 Zpětná vazba na novou verzi
 Během testování nové verze zároveň sbíráme zpětnou vazbu nejen z čísel konverzí, chyb, ale hlavně z dotazníků, heatmap a rozhovorů s uživateli.
 
 #dyckyFEEDBACK
@@ -81,21 +81,21 @@ Během testování nové verze zároveň sbíráme zpětnou vazbu nejen z číse
       width="300px"
       %}
 
-## #8 Nasazení nové responzivní části na 100 % mobilní Heureky
+## #6 Nasazení nové responzivní části na 100 % mobilní Heureky
 V současné době máme na m.heurece většinu částí nových a plně responzivních. Mobile first!
 
 Poslední částí, která na m.heurece responzivní není, je nákupní proces v Heureka Košíku, na kterém už v rámci projektu Heureka Group #MěnímeHeureku pracují kolegové v Maďarsku.
 
 #dyckyMOBILEfirst
 
-## #9 Přípravy na Desktop
+## #7 Přípravy na Desktop
 V současné chvíli se připravujeme na první testy nové responzivní verze na desktopové Heurece. Postupovat budeme stejným způsobem, jako jsme to dělali na m.heurece. Musíme také doladit logiku pro práci s jinými adresami a přesměrováním na části, které v nové Heurece zatím nemáme.
 
 Současně s prvním testováním připravujeme jednotlivé featury, co nám zbývají pro kompletní desktopovou verzi např. porovnávání produktů. 
 
 #dyckyDESKTOP
 
-## #10 První AB testy na Desktopu
+## #8 První AB testy na Desktopu
 Během prvních testů na Desktopu budeme sledovat to samé, co jsme dělali na mobilní Heurece, tedy stabilitu, výkon a hlavně konverze. Všechno bude pod dozorem dotazníků a heatmap. Postupně budeme ladit výkon a přidávat featury, které nám chybí k dokončení MLP.
 
 **Ochutnávka nové Heureky:**
