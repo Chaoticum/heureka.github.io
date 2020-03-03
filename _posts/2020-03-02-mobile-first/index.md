@@ -126,7 +126,7 @@ Během prvních testů na Desktopu budeme sledovat to samé, co jsme dělali na 
 
 ## Co nás čeká dál?
 
-Musíme doladit výkon nových částí, jako je homepage Heureky, vyhledávání, kategorie a produktový detail. Pro další kroky máme roadmapu featur, které nás čekají a postupně je budeme odbavovat dle priorit a kapacit. Našim cílem je mít Heureku kompletně responzivní do konce roku 2021.
+Musíme doladit výkon nových částí, jako je homepage Heureky, vyhledávání, kategorie a produktový detail. Pro další kroky máme roadmapu featur, které nás čekají a postupně je budeme odbavovat dle priorit a kapacit. Našim cílem je mít Heureku kompletně responzivní žačátkem roku 2021.
 
 Dále budeme ladit rychlost načítání stránek tak, aby Heureka patřila mezi špičku v rychlosti načítání stránek. Můžete se těšit i na již zmiňované nové porovnání produktů.
 
