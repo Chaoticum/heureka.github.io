@@ -6,7 +6,7 @@ date: 2020-03-03 10:26:00 +0200
 author: Martin Humpál
 tags: productdiscovery frontend měnímeheureku
 categories: [blog, design]
-imageUrl: /assets/mobile-first/darky-vyzkum.jpg
+imageUrl: /assets/mobile-first/1-mvp-mlp.png
 ---
 
 Produktový tým Heureky je složen z odborníků ve svém oboru a redesign neděláme formou „pojďme to udělat hezké“, ale každá připravovaná část podléhá BI analýze, uživatelskému testování, návrhu nového UI a tvorbě prototypů, které pak zkoumáme na uživatelských testech. Zároveň u každé feature zkoumáme, jak je využívaná a konverzní. Následně ji pak ladíme nebo mažeme, abychom se mohli soustředit na hlavní business. 
