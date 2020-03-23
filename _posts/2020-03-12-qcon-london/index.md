@@ -2,7 +2,7 @@
 layout: post
 title: "QCon London 2020"
 permalink: /qcon-london-2020/
-date: 2020-03-16 10:21:10 +0200
+date: 2020-03-23 10:21:10 +0200
 author: Oldřich Taufer
 tags: [konference, qcon, architecture]
 categories: [blog, meetupy_a_konference]
