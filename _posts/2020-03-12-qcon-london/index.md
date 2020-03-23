@@ -23,7 +23,7 @@ Pokud si myslíte, že cesta z Liberce do Prahy už v neděli ve 3 ráno vám u�
 
 ![Alasdair Allan](/assets/qcon-london-2020/allan.jpg)
 
-Vzpomínáte si na kauzu "locationgate" (kauza, kdy Apple musel objasnit veřejnosti, proč zaznamenává data o poloze majitelů svých zařízení)? Znáte projekt hackster.io? Sledovali jste objevení zatím nejdále vzdáleného objektu? Se všemi těmito událostmi se pojí jedno jméno, a to jméno přednášejícího Alsdaira Allana.
+Vzpomínáte si na kauzu "locationgate" (kauza, kdy Apple musel objasnit veřejnosti, proč zaznamenává data o poloze majitelů svých zařízení)? Znáte projekt hackster.io? Sledovali jste objevení zatím nejdále vzdáleného objektu? Se všemi těmito událostmi se pojí jedno jméno, a to jméno přednášejícího Alasdaira Allana.
 
 Tento vědec, hacker a žurnalista měl hned úvodní přednášku celého QConu. Rozpovídal se převážně o nebezpečí věcí uložených v cloudu a následné ztrátě soukromí. Nastínil myšlenku, jestli s čím dál výkonnějšími a menšími zařízeními není na čase opět začít využívat edge computing místo cloud computingu. Jednou ze super věciček, na kterých ukazoval důležitost soukromí, byl pro mě neznámý Bracelet of Silence. Najděte si ho, je to pecka!
 
@@ -54,7 +54,7 @@ V rámci návrhu nového systému na propojení 9 srovnávačů, o kterém už d
 
 Hned v úvodu vysvětlil, že pokud nepochopíte, jak Kafka pracuje s daty, nikdy neuděláte správný návrh aplikace. Snažil se nám natlouct do hlavy základy, jak fungují controllery, jaká je role zookeepera, co jsou to ty topicy, produceři, konzumenti, jakým způsobem se dotazují na data, jak funguje replikace, atd.
 
-Musím říct, že i když většinu těchto věcí dohledáte lehce na internetu, tak takhle poutavě jsem to od nikoho ještě neslyšel. Na závěr celou komunikaci vysvětlil na pár vybraných dobrovolnících z publika, kteří představovali Kafka systém. Bylo to fakt super a pokud budete mít možnost někde zajít na jeho přednášku, určitě to udělejte.
+Musím říct, že i když většinu těchto věcí dohledáte lehce na internetu, tak takhle poutavě jsem to od nikoho ještě neslyšel. Na závěr celou komunikaci vysvětlil na pár vybraných dobrovolnících z publika, kteří představovali Kafka systém. Bylo to fakt super, a pokud budete mít možnost někde zajít na jeho přednášku, určitě to udělejte.
 
 ## Cestovatelský fakt 2
 Do žádných veřejných míst vás nepustí bez toho, aniž by vám předtím nevydezinfikovali ruce. V dnešní době je to asi dobře, ale že vás na konci přechodu zastaví policista, který rozdává dezinfekci, jsem opravdu nečekal.
