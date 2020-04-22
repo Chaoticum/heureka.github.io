@@ -2,7 +2,7 @@
 layout: post
 title: "Jak spam robot prostřednictvím Heureky zaplnil e-mailovými notifikacemi schránky našich uživatelů – Postmortem tak trochu jinak"
 permalink: /spam-robot-zaplnil-schranky-zivatelu-postmortem-tak-trochu-jinak/
-date: 2020-04-20 14:00:10 +0200
+date: 2020-04-22 11:00:10 +0200
 author: Jiří Vích
 tags: [security, postmortem]
 categories: [blog, bezpecnost, kod]
@@ -108,6 +108,6 @@ Chybami se učíme a díky nim jsme lepší. Když se na to díváme zpětně, v
 
 Vyzkoušeli jsme si krizovou komunikaci napříč týmy a odděleními a do budoucna zapracujeme na reakční době. Dost možná nám v tom pomohou nové metriky.
 
-**Neopomíjejte podobné detaily.** Definujte si kroky ke zlepšení předem, inspirujte se námi. Ne vždy se v rámci přepisu kódu do mikroslužeb vyplatí zanevřít na údržbu starého kódu pod vidinou, že bzdy bude nový.
+**Neopomíjejte podobné detaily.** Definujte si kroky ke zlepšení předem, inspirujte se námi. Ne vždy se v rámci přepisu kódu do mikroslužeb vyplatí zanevřít na údržbu starého kódu pod vidinou, že brzy bude nový.
 
 Jak byste to řešili vy? Stalo se vám něco podobného? Dejte nám o tom vědět na našem Twitteru.
