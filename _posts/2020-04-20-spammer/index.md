@@ -37,7 +37,7 @@ Kde byl největší problém a jak jsme se z toho poučili? Jak šel sled událo
 * neděle 16:03 - Oddělení Supportu kontaktuje #vyvoj kanál ve Slacku s problémem: **Nechodí e-maily z Heureka košíku**, které mají zákazníkům potvrzovat objednávku. Support začal uvědomovat tazatele, že máme problémy a mají vyčkávat.
 * neděle 18:14 - Tým, který má na starost objednávky v Košíku, vše kontroluje a nenašel chybu v odesílání těchto zpráv.
 * neděle 18:27 - Support vydává pro tazatele stanovisko, že e-maily přijdou, ale bohužel se zpožděním.
-* pondělí 3:23 - Tým naší Infrastuktury se ozývá, že jsme se **dostali na maximální kvótu odeslaných e-mailů na Gmail** a Google nám blokuje další odesílané e-maily. Odbavování fronty se tak v některých případech zcela zastavilo.
+* pondělí 3:23 - Tým naší Infrastruktury se ozývá, že jsme se **dostali na maximální kvótu odeslaných e-mailů na Gmail** a Google nám blokuje další odesílané e-maily. Odbavování fronty se tak v některých případech zcela zastavilo.
 * pondělí 10:41 - E-mailová fronta je prázdná, vše důležité se se zpožděním odeslalo.
 * pondělí 10:55 - Gmail nás již neblokuje. Stále však trvá blokace od Seznam e-mailu, kterou jsme též dostali. Musíme čekat.
 * pondělí 12:52 - Tým infrastruktury připravuje přehledné boardy v Kibaně, abychom lépe viděli problémové e-maily od Spamera a mohli rychleji zasahovat.
@@ -104,7 +104,7 @@ Uděláme další úrovně zabezpečení všech formulářů.
 
 ## A co na závěr?
 
-Chybami se učíme a díky nim jsme lepší. Když se na to díváme zpětně, vypadá to jako školácká chyba. Spoustu věcí bychom dnes udělali jinak. Ale na to bychom bez tohoto incicentu nejspíš nepřišli.
+Chybami se učíme a díky nim jsme lepší. Když se na to díváme zpětně, vypadá to jako školácká chyba. Spoustu věcí bychom dnes udělali jinak. Ale na to bychom bez tohoto incidentu nejspíš nepřišli.
 
 Vyzkoušeli jsme si krizovou komunikaci napříč týmy a odděleními a do budoucna zapracujeme na reakční době. Dost možná nám v tom pomohou nové metriky.
 
