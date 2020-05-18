@@ -2,7 +2,7 @@
 layout: post
 title: "Mikrofrontendy pod lupou"
 permalink: /mikrofrontendy/
-date: 2020-05-13 10:36:00 +0200
+date: 2020-05-18 10:21:00 +0200
 author: Adam Havel
 tags: frontend web architektura microservices
 categories: [blog, kod]
