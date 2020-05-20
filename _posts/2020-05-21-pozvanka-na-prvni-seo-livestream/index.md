@@ -29,7 +29,7 @@ Budeme vysílat pouze live. Trvale dostupný záznam ze streamu dělat nebudeme.
 
 Počet míst není není nijak omezený a registrovat se na webinář není povinné, ale rozhodně to doporučujeme. Před akcí vám na mail totiž pošleme upomínku a URL streamu. A po skončení webináře pak registrovaným uživatelům pošleme pěkně přehledně všechny materiály a odkazy.
 
-Pokud vám nedorazí potvrzovací mail, zkontrolujte si prosím spam.
+Pokud vám po registraci nedorazí potvrzovací mail, zkontrolujte si pro jistotu spam. A pokud nevidíte nebo vám nefunguje níže uvedený registrační formulář, tak použijte tento [registrační odkaz](http://eepurl.com/g3FPvX).
 
 {% raw %}
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
