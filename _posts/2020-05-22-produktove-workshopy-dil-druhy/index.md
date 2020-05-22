@@ -2,7 +2,7 @@
 layout: post
 title: "Produktové workshopy nejsou jen pro produkťáky a vývojáře - díl druhý"
 permalink: /produktove-workshopy-dil-druhy/
-date: 2020-05-22 11:00:10 +0200
+date: 2020-05-25 08:00:10 +0200
 author: Ondřej Walter
 tags: workshop MěnímeHeureku
 categories: [blog, meetupy_a_konference]
