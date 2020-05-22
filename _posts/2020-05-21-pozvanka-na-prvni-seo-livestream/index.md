@@ -49,12 +49,12 @@ Pokud vám po registraci nedorazí potvrzovací mail, zkontrolujte si pro jistot
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group input-group">
-    <strong>Jednorázové registrace</strong> (pokud zaškrtnete pouze tuto možnost, po ukončení akce a finálním mailingu váš email trvale smažeme)<br /><br />
-    <ul><li><input type="checkbox" value="1" name="group[4862][1]" id="mce-group[4862]-4862-0"><label for="mce-group[4862]-4862-0">SEO lifestream I - květen 2020</label></li>
+    <strong>Livestreamy a webináře</strong> (Nutné zaškrtnout pro registraci na webinář. Pokud nezaškrtnete žádný checkbox v sekci preferencí pro odběr newsletterů, váš email po skončení akce z naší databáze trvale smažeme.)<br /><br />
+    <ul><li><input type="checkbox" value="1" name="group[4862][1]" id="mce-group[4862]-4862-0"><label for="mce-group[4862]-4862-0">Ano, chci na 1. SEO lifestream (červen 2020)</label></li>
 </ul>
 </div>
 <div class="mc-field-group input-group">
-    <strong>Preference témat newsletterů</strong> (volitelné, pouze pokud chcete do budoucna odebírat novinky z našeho blogu) <br /><br />
+    <strong>Preference témat newsletterů</strong> (Volitelné, pouze pokud chcete do budoucna odebírat novinky z našeho blogu.) <br /><br />
     <ul><li><input type="checkbox" value="2" name="group[4866][2]" id="mce-group[4866]-4866-0"><label for="mce-group[4866]-4866-0">vývoj &amp; bezpečnost</label></li>
 <li><input type="checkbox" value="4" name="group[4866][4]" id="mce-group[4866]-4866-1"><label for="mce-group[4866]-4866-1">produkt &amp; výzkum</label></li>
 <li><input type="checkbox" value="8" name="group[4866][8]" id="mce-group[4866]-4866-2"><label for="mce-group[4866]-4866-2">seo &amp; webmasters</label></li>
