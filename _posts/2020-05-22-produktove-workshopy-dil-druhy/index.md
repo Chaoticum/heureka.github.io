@@ -2,7 +2,7 @@
 layout: post
 title: "Produktové workshopy nejsou jen pro produkťáky a vývojáře - díl druhý"
 permalink: /produktove-workshopy-dil-druhy/
-date: 2020-05-25 08:00:10 +0200
+date: 2020-05-25 15:00:10 +0200
 author: Ondřej Walter
 tags: workshop MěnímeHeureku
 categories: [blog, meetupy_a_konference]
@@ -11,7 +11,7 @@ imageUrl: /assets/produktove-workshopy-dil-druhy/pracujeme.jpg
 
 V únoru jsme se vydali na druhý workshop s týmem, který nepatří ani do produktu ani do vývoje. Jsou to kolegové, kteří se starají o katalog Heureky. [Loni jsme si to společně vyzkoušeli prvně]({{ site.baseurl }}{% link _posts/2019-09-16-workshopy-s-kolegy-mimo-produkt-a-vyvoj/index.md %}) a pro velký úspěch jsme si to prostě zopakovali. Jen s několika drobnými rozdíly. Vylepšení, která by i vám mohla pomoci při plánování podobných akcí. A pokud chcete malý spoiler alert: Moc vám je doporučujeme.
 
-Naše doporučení bych shrnul do několika oblastí. Můžete si z nich udělat jakýsi vlastní chceck list pro uspořádání workshopu.
+Naše doporučení bych shrnul do několika oblastí. Můžete si z nich udělat jakýsi vlastní check list pro uspořádání workshopu.
 
 ![Pracujeme na workshopu](/assets/produktove-workshopy-dil-druhy/pracujeme.jpg)
 
@@ -33,7 +33,7 @@ Také jsme se poučili z našich minulých zkušeností. V první iteraci (na na
 ## Nepodceňte přípravu
 1. __Místo:__ Najít dobrou základnu je základ. Nás jelo okolo dvaceti, potřebovali jsme místo daleko od kanceláří - tedy Prahy i Liberce. Navíc chceme mít vlastní kuchyň, kde si můžeme vařit, ubytování na dvě noci v týdnu. Není to tak snadné, jak se může zdát. A my jsme nenašli důvod se nevrátit tam, kde nám bylo dobře: na chalupu v Chotěšicích. A pokud si jako my půjčujete chatu, kam jedete v půlce února, zkuste myslet i na teplé oblečení (během jednoho dne chalupu na první noc vytopíte jen stěží. Teplé prádlo na noc (někdy také nazývané jako jégrův tlumič vášní :-D ), může přijít vhod.
 
-2. __Internet:__ Pro naši práci potřebujeme dobré připojení. Chaty jsou skvělé, ale Wi-Fi (potažmo internetové připojení) na většině chalup přeci jen není projektováno na současnou práci a připojení 20 lidí.Proto doporučuji mít sebou zálohu v podobě mobilního internetu. Pokud máte neomezené datové tarify, tak to řešit nemusíte. Všem ostatním může firemní přenosný 4G modem s velkým FUPem přijít vhod.  Odklonit část trafficu do jiné sítě může pomoct zabezpečit hladkou práci pro všechny zúčastněné.
+2. __Internet:__ Pro naši práci potřebujeme dobré připojení. Chaty jsou skvělé, ale Wi-Fi (potažmo internetové připojení) na většině chalup přeci jen není projektováno na současnou práci a připojení 20 lidí. Proto doporučuji mít sebou zálohu v podobě mobilního internetu. Pokud máte neomezené datové tarify, tak to řešit nemusíte. Všem ostatním může firemní přenosný 4G modem s velkým FUPem přijít vhod.  Odklonit část trafficu do jiné sítě může pomoct zabezpečit hladkou práci pro všechny zúčastněné.
 
 3. __Jídlo a pití:__ To rozhodně nakupujte velkoryseji, než si kolegové sami řeknou. My máme díky našim úžasným scrum masterům velmi chytrou tabulku, ve které se lehce přihlásíme na ubytování do konkrétního pokoje, vyplníme jaké jídlo chce jíst (vaříme si sami) a kolik a jaký alkohol chcete. Žádostí o vyplnění přijde nepočítaně a stejně se v průběhu akce ukáže, že někomu něco chybí a že si to “neobjednal”. U vína, piva a vlastně i potravin proto doporučuji přikoupit vždy něco navíc. Neztratí se to a kdyby přece jen něco zbylo, můžete vzít zpět do práce, ať se dostane i na další kolegy.
 
