@@ -80,7 +80,7 @@ Případovka měla původně anglický název “Subdomains & Cyberchaos” a m�
 
 Těšíme se na vás!
 
-Luděk P. a Zdeněk N.
+Zdeněk N. a Luděk P.
 
 
 ![SEO tým Heureky](/assets/pribehy-webmasteru-rusky-spam-subdomain-hijack/zdenek-a-ludek.jpg "SEO tým Heureky")
