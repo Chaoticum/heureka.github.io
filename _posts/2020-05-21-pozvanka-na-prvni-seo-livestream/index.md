@@ -23,56 +23,29 @@ Budeme vysílat pouze live. Trvale dostupný záznam ze streamu dělat nebudeme.
 
 - Datum: **čtvrtek 4. 6. 2020**
 - Čas: **10:15 - 11:15**
-- URL: **pošleme přihlášeným den před konáním akce, sem doplníme ve čtvrtek 4. 6. 2020 před zahájením vysílání**
+- URL: **https://www.twitch.tv/heurekadevs**
 
-## Registrace
+## Stream a dotazy
 
-Počet míst není není nijak omezený a registrovat se na webinář není povinné, ale rozhodně to doporučujeme. Před akcí vám na mail totiž pošleme upomínku a URL streamu. A po skončení webináře pak registrovaným uživatelům pošleme pěkně přehledně všechny materiály a odkazy.
-
-Pokud vám po registraci nedorazí potvrzovací mail, zkontrolujte si pro jistotu spam. A pokud nevidíte nebo vám nefunguje níže uvedený registrační formulář, tak použijte tento [registrační odkaz](http://eepurl.com/g3FPvX).
+Sledovat stream a pokládat otázky můžete i prostřednictím služeb Twitch a Sli.do vložených níže pod tímto textem.
 
 {% raw %}
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup" style="border:2px solid #009CD3; border-radius:4px; padding:0px 10px 10px 10px;">
-<form action="https://heurekadevs.us18.list-manage.com/subscribe/post?u=ae4baf7bbc33635c280e26c54&amp;id=30bc44e3d7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Registrační formulář</h2>
-<div class="indicates-required"><span class="asterisk">*</span> povinné</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Emailová adresa  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group input-group">
-    <strong>Livestreamy a webináře</strong> (Nutné zaškrtnout pro registraci na webinář. Pokud nezaškrtnete žádný checkbox v sekci preferencí pro odběr newsletterů, váš email po skončení akce z naší databáze trvale smažeme.)<br /><br />
-    <ul><li><input type="checkbox" value="1" name="group[4862][1]" id="mce-group[4862]-4862-0"><label for="mce-group[4862]-4862-0">Ano, chci na 1. SEO lifestream (červen 2020)</label></li>
-</ul>
-</div>
-<div class="mc-field-group input-group">
-    <strong>Preference témat newsletterů</strong> (Volitelné, pouze pokud chcete do budoucna odebírat novinky z našeho blogu.) <br /><br />
-    <ul><li><input type="checkbox" value="2" name="group[4866][2]" id="mce-group[4866]-4866-0"><label for="mce-group[4866]-4866-0">vývoj &amp; bezpečnost</label></li>
-<li><input type="checkbox" value="4" name="group[4866][4]" id="mce-group[4866]-4866-1"><label for="mce-group[4866]-4866-1">produkt &amp; výzkum</label></li>
-<li><input type="checkbox" value="8" name="group[4866][8]" id="mce-group[4866]-4866-2"><label for="mce-group[4866]-4866-2">seo &amp; webmasters</label></li>
-<li><input type="checkbox" value="16" name="group[4866][16]" id="mce-group[4866]-4866-3"><label for="mce-group[4866]-4866-3">pozvánky &amp; info</label></li>
-</ul>
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ae4baf7bbc33635c280e26c54_30bc44e3d7" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Registrovat" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
+<div id="twitch-embed"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script type="text/javascript">
+new Twitch.Embed("twitch-embed", {
+width: 854,
+height: 480,
+channel: "heurekadevs",
+parent: ["www.heurekadevs.cz", "heurekadevs.cz"]
+});
+</script>
 {% endraw %}
+
+{% raw %}
+<iframe src="https://app.sli.do/event/csu8krlr" frameborder="0" height="500px" width="854px"></iframe>
+{% endraw %}
+
 
 ## Proč livestream?
 
