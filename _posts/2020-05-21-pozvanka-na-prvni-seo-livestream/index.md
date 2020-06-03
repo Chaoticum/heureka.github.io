@@ -23,11 +23,11 @@ Budeme vysílat pouze live. Trvale dostupný záznam ze streamu dělat nebudeme.
 
 - Datum: **čtvrtek 4. 6. 2020**
 - Čas: **10:15 - 11:15**
-- URL: **https://www.twitch.tv/heurekadevs**
+- URL: **[https://www.twitch.tv/heurekadevs](https://www.twitch.tv/heurekadevs)**
 
 ## Stream a dotazy
 
-Sledovat stream a pokládat otázky můžete i prostřednictím služeb Twitch a Sli.do vložených níže pod tímto textem.
+Sledovat stream a pokládat otázky můžete i prostřednictvím služeb Twitch a Sli.do vložených níže pod tímto textem.
 
 {% raw %}
 <div id="twitch-embed"></div>
