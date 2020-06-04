@@ -4,7 +4,7 @@ title: "Satan, SEO a Subdomény - VOL I. - Chaos přichází plíživě"
 permalink: /satan-seo-subdomeny-i-chaos/
 date: 2020-06-04 10:30:00 +0200
 author: Zdeněk Nešpor
-tags: seo, měnímeheureku, web
+tags: seo měnímeheureku web
 categories: [blog, seo]
 imageUrl: /assets/satan-seo-subdomeny-i/historical-heureka.jpg
 ---
