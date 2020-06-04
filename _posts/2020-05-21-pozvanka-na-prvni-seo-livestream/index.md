@@ -25,28 +25,6 @@ Budeme vysílat pouze live. Trvale dostupný záznam ze streamu dělat nebudeme.
 - Čas: **10:15 - 11:15**
 - URL: **[https://www.twitch.tv/heurekadevs](https://www.twitch.tv/heurekadevs)**
 
-## Stream a dotazy
-
-Sledovat stream a pokládat otázky můžete i prostřednictvím služeb Twitch a Sli.do vložených níže pod tímto textem.
-
-{% raw %}
-<div id="twitch-embed"></div>
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
-<script type="text/javascript">
-new Twitch.Embed("twitch-embed", {
-width: 854,
-height: 480,
-channel: "heurekadevs",
-parent: ["www.heurekadevs.cz", "heurekadevs.cz"]
-});
-</script>
-{% endraw %}
-
-{% raw %}
-<iframe src="https://app.sli.do/event/csu8krlr" frameborder="0" height="500px" width="854px"></iframe>
-{% endraw %}
-
-
 ## Proč livestream?
 
 Případovka měla původně anglický název “Subdomains & Cyberchaos” a měli jsme s ní vystoupit na [Google Webmaster Conference](https://events.withgoogle.com/webmaster-conference-czsk/speakers/#content) začátkem března v Brně. Na přednášení se špičkovými googlery z celého světa a skvělými profíky z ČR jsme byli extrémně natěšení. Asi tušíte jak to bylo dál. Jeden lahodný netopýr za syrova, globální pandemie, karanténa a bylo po srandě. Po dvou měsících příprav nás to opravdu hodně mrzelo a rozhodli jsme se, že uděláme webinář. Tím spíše, že se jedná o poměrně čerstvou případovku, kterou ještě máme v hlavě. Pomalu se v těchto dnech vracíme z home office zpět do prostor kanceláří Heureky a můžeme udělat akci podle našich představ.
