@@ -4,7 +4,7 @@ title: "Satan, SEO a Subdomény - VOL II. - Protinádorová SEOterapie "
 permalink: /satan-seo-subdomeny-ii-seoterapie/
 date: 2020-06-08 9:00:00 +0200
 author: Zdeněk Nešpor
-tags: seo, měnímeheureku, web
+tags: [seo, měnímeheureku, web]
 categories: [blog, seo]
 imageUrl: /assets/satan-seo-subdomeny-ii/01-mandelbrot-set.png
 ---
