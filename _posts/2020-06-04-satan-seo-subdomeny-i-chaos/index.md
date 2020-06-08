@@ -6,7 +6,7 @@ date: 2020-06-04 10:30:00 +0200
 author: Zdeněk Nešpor
 tags: seo měnímeheureku web
 categories: [blog, seo]
-imageUrl: /assets/satan-seo-subdomeny-i/historical-heureka.jpg
+imageUrl: /assets/satan-seo-subdomeny-i/conway.jpg
 ---
 
 Využití subdomén jako základního strukturálního elementu není žádná velká novinka. Heureka díky tomu získala téměř legendární pověst. Od založení našeho webu uplynulo více než 10 let. Doba pokročila. Webové technologie se vyvíjí kupředu mílovými kroky. Výchozí podmínky pro přežití v internetové divočině se mění každý den. Ať už vlivem vývojářských zásahů, updaty vyhledávačů nebo aktivitami webmasterů konkurenčních webů. Panta rhei.[[1]](#Poznámky) Vše plyne. A podléhá nevyhnutelným změnám v nezastavitelném kyberprostoru.
@@ -68,7 +68,7 @@ Způsobů, jak minimalizovat potenciální problémy s webem, je mnoho. Jedním 
 
 Jako rychlý příklad může posloužit známý celulární automat[[6]](#Poznámky) **Game of Life**.[[7]](#Poznámky) Na základě čtyř triviálních pravidel vzniká fascinující a až nevídaně komplexní 8-bitový „život“. Velkou výhodou experimentování s celulárními automaty je možnost omezit prostor a dobu trvání jejich existence.
 
-![Ukázka celulárního automatu Game of Life](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif "Ukázka celulárního automatu Game of Life")
+![Ukázka celulárního automatu Game of Life](/assets/satan-seo-subdomeny-i/glider-gun.gif "Ukázka celulárního automatu Game of Life")
 
 Základních webových pravidel, která existují a která je nutné definovat, existuje podstatně více. Prostor i čas mají extrémní limity. Potenciálních proměnných, různých stavů a externích vlivů existují desítky až stovky.
 
@@ -134,7 +134,7 @@ První lehce teoretický úvodní článek končí. Seriál o subdoménách zač
 ## Seriál o SEO a subdoménách
 
 - **Satan, SEO a Subdomény - VOL I. - Chaos přichází plíživě**
-- Satan, SEO a Subdomény - VOL II. - Protinádorová SEOterapie
+- [Satan, SEO a Subdomény - VOL II. - Protinádorová SEOterapie](https://www.heurekadevs.cz/satan-seo-subdomeny-ii-seoterapie/)
 - Satan, SEO a Subdomény - VOL III. - Řízená SEOcida plošným vypalováním
 - Satan, SEO a Subdomény - VOL IV. - TBD
 - Satan, SEO a Subdomény - VOL V. - TBD
@@ -144,7 +144,7 @@ První lehce teoretický úvodní článek končí. Seriál o subdoménách zač
 
 ## Disclaimer
 
-K textu přistupujte obezřetně. Tento článek a celý seriál neslouží jako návod. Texty neobsahují žádné "univerzální" pravdy. Každý web představuje unikátní systém s různými výchozími podmínkami. Je nutný individuální přístup a perfektní znalost konkrétního webu i dané problematiky.
+K textu přistupujte obezřetně. Tento článek a celý seriál neslouží jako návod. Texty neobsahují žádné „univerzální“ pravdy. Každý web představuje unikátní systém s různými výchozími podmínkami. Je nutný individuální přístup a perfektní znalost konkrétního webu i dané problematiky.
 
 Článek popisuje náš web. Nijak nehodnotíme obecnou efektivitu subdomén či adresářů. Ani nedoporučujeme žádné konkrétní řešení. Opět se jedná o silně individuální záležitost, kterou ovlivňuje mnoho faktorů.
 
