@@ -46,7 +46,7 @@ Co přesně je „parametrická kategorie“? Je to pseudo-kategorie, která rep
 
 ### Anamnéza
 
-Původní systém parametrických sekcí fungoval následovně. Potřebujeme uživateli nabídnou populární produkty „Apple iPhone“. Pro ty existuje cílová stránka, kterou tvoří kombinace kategorie `Mobilní telefony` a v ní zakliknutého filtru Výrobce -> `Apple`. Výsledkem je parametrická URL `https://mobilni-telefony.heureka.cz/f:1666:101069/`.
+Původní systém parametrických sekcí fungoval následovně. Potřebujeme uživateli nabídnout populární produkty „Apple iPhone“. Pro ty existuje cílová stránka, kterou tvoří kombinace kategorie `Mobilní telefony` a v ní zakliknutého filtru Výrobce -> `Apple`. Výsledkem je parametrická URL `https://mobilni-telefony.heureka.cz/f:1666:101069/`.
 
 Za normálních okolností by tato URL a daná cílová stránka byly plně dostačující. V roce 2010 ovšem panovalo přesvědčení, že subdomény přináší „lepší SEO“, ať už to znamená cokoliv. A důležitá zřejmě byla kvantita, která měla převážit nad kvalitou.
 
@@ -64,7 +64,7 @@ Všechno v červeném rámečku jsme vzali a zkopírovali na nižší úroveň v
 
 ![Mandelbrotova množina - duplikát](/assets/satan-seo-subdomeny-ii/02-mandelbrot-set.png "Mandelbrotova množina - duplikát")
 
-V této chvíli je už celkem jasné, jaký je náš hlavní cíl. Chceme, aby existovala pouze hlavní kategorie. Subdomény s replikovaných obsahem bude nutné přesměrovat. A parametrické sekce již budou vznikat pouze zvýrazněním konkrétního obsahu přímo v kategorii. Nebudou vznikat žádné nové subdoménoné pseudo-sekce, ale parametrické sekce budou fungovat jako rychlé „zkratky“ k předvoleným filtrům. Žádná velká věda.
+V této chvíli je už celkem jasné, jaký je náš hlavní cíl. Chceme, aby existovala pouze hlavní kategorie. Subdomény s replikovaných obsahem bude nutné přesměrovat. A parametrické sekce již budou vznikat pouze zvýrazněním konkrétního obsahu přímo v kategorii. Nebudou vznikat žádné nové subdoménové pseudo-sekce, ale parametrické sekce budou fungovat jako rychlé „zkratky“ k předvoleným filtrům. Žádná velká věda.
 
 ## Tomografie zmrzlinové kategorie
 
@@ -254,8 +254,7 @@ Texty mohou obsahovat pokročilé koncepty a modely, které nejsou v oblasti SEO
 
 ## Poznámky:
 
-> [^1]: Enterprise-level v této souvislosti používáme pro označení gigantického webu o několika milionech URL a relativně velkým rozpočtem. Na druhé straně ale logicky stojí obrovská zodpovědnost a ne úplně příjemný stres.
- [https://en.wikipedia.org/wiki/Heraclitus](https://en.wikipedia.org/wiki/Heraclitus).
+> [^1]: Enterprise-level v této souvislosti používáme pro označení gigantického webu o několika milionech URL a relativně velkým rozpočtem. Na druhé straně ale logicky stojí obrovská zodpovědnost a ne úplně příjemný stres. [https://en.wikipedia.org/wiki/Heraclitus](https://en.wikipedia.org/wiki/Heraclitus).
 >
 > [^2]: V pojetí většiny nástrojů, které jsme oslovili, totiž enterprise-level znamená „korporát s neomezeným rozpočtem a webem střední velikosti do maximálního počtu 5.000.000 URL“. Pro zajímavost. Jen naše sitemapy měly ještě nedávno 500.000.000 URL (slovy pět set milionů URL). Pokud by existoval nástroj, který by tento objem URL zvládl, tak by nás měsíčně stál odhadem přes 600.000 Kč. [https://en.wikipedia.org/wiki/Enterprise_software](https://en.wikipedia.org/wiki/Enterprise_software)
 >
