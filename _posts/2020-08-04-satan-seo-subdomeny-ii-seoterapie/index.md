@@ -274,8 +274,8 @@ Texty mohou obsahovat pokročilé koncepty a modely, které nejsou v oblasti SEO
 >
 > [^10]: Postmortem ve vývoji: [https://en.wikipedia.org/wiki/Postmortem_documentation](https://en.wikipedia.org/wiki/Postmortem_documentation)
 >
-> [^11] OKR: [https://en.wikipedia.org/wiki/OKR](https://en.wikipedia.org/wiki/OKR)
+> [^11]: OKR: [https://en.wikipedia.org/wiki/OKR](https://en.wikipedia.org/wiki/OKR)
 >
-> [^12] Poznámka autora: Většina jiných projektů, kterých jsem se dříve účastnil mimo Heureku, často vyhořelo. Jen výjimečně za to mohl nějaký „blb“, kterému jsme neúspěch rádi přisuzovali. V drtivé většině byla tím zásadním problémem nedostatečná komunikace a naprosto nevhodné procesy.
+> [^12]: Poznámka autora: Většina jiných projektů, kterých jsem se dříve účastnil mimo Heureku, často vyhořelo. Jen výjimečně za to mohl nějaký „blb“, kterému jsme neúspěch rádi přisuzovali. V drtivé většině byla tím zásadním problémem nedostatečná komunikace a naprosto nevhodné procesy.
 >
-> [^13] Mozek: Centrum nervové soustavy, užitečný orgán umítěny v lebce. Doporučujeme používat co nejčastěji!
+> [^13]: Mozek: Centrum nervové soustavy, užitečný orgán umítěny v lebce. Doporučujeme používat co nejčastěji!
