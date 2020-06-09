@@ -28,11 +28,11 @@ Starost o celý tribe, vytváření a udržování vhodných podmínek pro prác
       img="/assets/heureka-ma-novy-discovery-tribe/discovery-tribe.JPG"
       title="Honza Kubálek a Franta Šeda" %}
 
-Novým Discovery Tribe Technology Leadem je **Honza Kubálek** (30). Největší Honzovou technologickou výzvou bude rozvoj mezinárodní OnePlatform, čili sjednocení tři obdobných produktů (Heureka, Árukereső, Ceneje) na jeden technologický podvozek. Honza bude také soustředit síly na sjednocování všech týmů napříč zeměmi Heureka Group a sjednocení jejich technologické vize. 
+Novým Discovery Tribe Technology Leadem je **Honza Kubálek**. Největší Honzovou technologickou výzvou bude rozvoj mezinárodní OnePlatform, čili sjednocení tři obdobných produktů (Heureka, Árukereső, Ceneje) na jeden technologický podvozek. Honza bude také soustředit síly na sjednocování všech týmů napříč zeměmi Heureka Group a sjednocení jejich technologické vize. 
 
 Honza k nám přišel z LMC, kde působil nejprve jako senior vývojář a později vedl svůj vlastní tým, který rozvíjel online vzdělávací portál Seduo, vytvářel jejich technologické vize a byl odpovědný za technický design. Honza ve volném čase rád jezdí na kole, hraje squash, cestuje a poznává nové lidi. Jeho cílem je uběhnout půlmaraton, tak se poctivě připravuje a často běhá. Jeho nejoblíbenější pochutinou je kečup.
 
-Produktové vedení Tribu bude mít na starosti **František Šeda** (39), který k nám přestoupil ze Sodexa. Fanda bude hlavně vytvářet a střežit prostředí pro jeho tým produkťáků, ve kterém budou nejen chtít posouvat kupředu Heureku, ale také budou růst osobně i profesně a budou se každý den těšit do práce.
+Produktové vedení Tribu bude mít na starosti **František Šeda**, který k nám přestoupil ze Sodexa. Fanda bude hlavně vytvářet a střežit prostředí pro jeho tým produkťáků, ve kterém budou nejen chtít posouvat kupředu Heureku, ale také budou růst osobně i profesně a budou se každý den těšit do práce.
 
 V Sodexu Fanda se svým týmem rozvíjel vše digitální a produktové. Ve volném čase se nyní maximálně věnuje rodině a čerstvě narozené dceři, rekreačně hraje tenis a má rád prkna všeho druhu - hlavně snowboard, skateboard a windsurf. Mezi jeho další koníčky patří také e-commerce, mj. pomáhá rozvíjet a provozovat několik e-shopů nejen v České republice, ale i napříč Evropou.
 
