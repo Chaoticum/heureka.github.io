@@ -5,7 +5,7 @@ permalink: /heureka-ma-novy-discovery-tribe/
 date: 2020-06-09 13:35:10 +0200
 author: Lukáš Putna
 tags: [OnePlatform, MěnímeHeureku]
-categories: [lide]
+categories: [blog, lide]
 imageUrl: /assets/heureka-ma-novy-discovery-tribe/discovery-tribe.JPG
 
 ---
