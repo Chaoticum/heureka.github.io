@@ -9,11 +9,11 @@ categories: [blog, legrace, meetupy_a_konference]
 imageUrl: /assets/gg-prague-19/heureka-gg-2019-01.png
 ---
 
-V sobotu 25. května 2019 jsme se jako tým Heureka zúčastnili charitativního turnaje [GameForGood Prague](http://game4good.cz){:target="_blank"} v počítačové hře **Counter Strike Global Offensive**. Výtěžek z tohoto turnaje putoval na Nadační fond Jonášek, který nakupuje potřebné vybavení do dětských nemocnic.
+V sobotu 25. května 2019 jsme se jako tým Heureka zúčastnili charitativního turnaje [GameForGood Prague](https://www.esportliga.cz/ggprague/){:target="_blank"} v počítačové hře **Counter Strike Global Offensive**. Výtěžek z tohoto turnaje putoval na Nadační fond Jonášek, který nakupuje potřebné vybavení do dětských nemocnic.
 
 ![Heureka tým vpravo](/assets/gg-prague-19/heureka-gg-2019-01.png)
 
-Za tým Heureka nastoupili Jakub Krčma, Petr Novotný, Jan Kahoun, David Příplata, David Němec a Pavel Erfányuk. Celkem se turnaje zúčastnilo 8 firem rozlosovaných do dvou základních skupin po čtyřech týmech. Na tým Heureka čekali soupeři jako STRV, Uniprog a Ribbon. 
+Za tým Heureka nastoupili Jakub Krčma, Petr Novotný, Jan Kahoun, David Příplata, David Němec a Pavel Erfányuk. Celkem se turnaje zúčastnilo 8 firem rozlosovaných do dvou základních skupin po čtyřech týmech. Na tým Heureka čekali soupeři jako STRV, Uniprog a Ribbon.
 
 ## Jdeme hrát!
 
@@ -21,13 +21,13 @@ První zápas turnaje jsme hráli proti týmu Uniprog na legendární mapě de_d
 
 ![Heureka tým vpravo](/assets/gg-prague-19/heureka-gg-2019-02.png)
 
-Poslední zápas ve skupině byl proti společnosti Ribbon, nad kterými jsme s přehledem vyhráli 13:2. Díky tomuto úspěchu jsme se umístili na třetím místě ve skupině, čímž jsme si zajistili čtvrtfinálový zápas proti druhému týmu z druhé skupiny. 
+Poslední zápas ve skupině byl proti společnosti Ribbon, nad kterými jsme s přehledem vyhráli 13:2. Díky tomuto úspěchu jsme se umístili na třetím místě ve skupině, čímž jsme si zajistili čtvrtfinálový zápas proti druhému týmu z druhé skupiny.
 
 ## Ve čtvrtfinále drtíme dvojku!
 
 Druhý tým ve skupině A nebyl nikdo jiný než dvojka na trhu e-shopů s elektronikou – CZC.cz. Do zápasu jsme nastoupili velmi takticky a díky výhře hodu mincí, jsme si mohli zvolit mapu, na které budeme hrát. Zvolili jsme de_nuke. Vyrovnaný zápas nakonec vyšel výhrou pro náš tým.
 
-Postupujeme do semifinále a opět se utkáváme s STRV, kteří mezitím celý streamovaný zápas s CZC bedlivě sledovali. Chvíli jsme opět dokázali držet tempo, ale nakonec jsme podruhé podlehli 3:13. 
+Postupujeme do semifinále a opět se utkáváme s STRV, kteří mezitím celý streamovaný zápas s CZC bedlivě sledovali. Chvíli jsme opět dokázali držet tempo, ale nakonec jsme podruhé podlehli 3:13.
 
 ## Zápas o třetí místo
 
@@ -37,9 +37,9 @@ Na poslední zápas v turnaji jsme v boji o třetí místo nastoupili proti tým
 
 ## Výsledek
 
-Na začátku turnaje jsme počítali jen s možným postupem ze skupiny. **Nakonec jsme skončili čtvrtí!** Tento výsledek byl velmi milým překvapením. 
+Na začátku turnaje jsme počítali jen s možným postupem ze skupiny. **Nakonec jsme skončili čtvrtí!** Tento výsledek byl velmi milým překvapením.
 
-Tým Heureka odvedl úžasnou práci! 
+Tým Heureka odvedl úžasnou práci!
 
 Tímto bych chtěl poděkovat všem zúčastněným za krásný výsledek a příjemně strávený den. V příštích ročnících se rádi opět zúčastníme. Na nadaci se vybralo celkem 140 700 Kč a jsme rádi, že jsme mohli být součástí.
 

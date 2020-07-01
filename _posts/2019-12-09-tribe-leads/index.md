@@ -4,7 +4,7 @@ title: "#MěnímeHeureku: K autonomním týmům v produktu a vývoji přidávám
 permalink: /k-autonomnim-tymum-pridavame-tribe-leadery/
 date: 2019-12-16 10:21:11 +0200
 author: Lukáš Putna
-tags: OnePlatform MěnímeHeureku 
+tags: OnePlatform MěnímeHeureku
 categories: [blog]
 imageUrl: /assets/k-autonomnim-tymum-pridavame-tribe-leadery/ondra_walter_jan_blasko_lukas_putna.jpeg
 ---
@@ -37,4 +37,4 @@ Já sám si od nových Tribe Leadů slibuju hodně. Jednak se budou pořádně s
 
 Tribe Leads nejsou manažeři, kteří mně (CTO) nebo Markovi Grynhofovi (CPO) musí nějak pravidelně reportovat. Pečlivě jsme vybírali ty, kdo si svoji roli nespletou s managováním týmů. Naši Tribe Leads jsou vůdci kmenů. Jsou pro své týmy a oblasti vzorem a společně přichází na řešení, která se od manažerského stolu prostě udělat nedají.
 
-Už teď se těším na další Tribe Leady, kteří Honzu a Ondru doplní. S některými už jsme domluvení a jednoho stále hledáme ([Discovery Tribe Product Leada](https://onas.heureka.cz/product-lead-of-discovery-tribe)). Těším se na to, jak společně budeme definovat a redefinovat, kam Heureku posuneme.
+Už teď se těším na další Tribe Leady, kteří Honzu a Ondru doplní. Těším se na to, jak společně budeme definovat a redefinovat, kam Heureku posuneme.

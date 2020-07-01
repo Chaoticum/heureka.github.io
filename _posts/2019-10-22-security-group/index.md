@@ -45,9 +45,9 @@ Jak ale rozhodnout která služba je z hlediska zabezpečení citlivější a kt
 
 Myšlenka je taková, že citlivé jsou pro nás především ty služby, které pracují s neveřejnými daty nebo osobními údaji.‌ Můžeme tedy klasifikovat data, se kterými služby pracují a citlivost dané služby bude rovna nejcitlivějším datům, se kterými pracuje.
 
-Potřebovali jsme už tedy jen metodu klasifikace citlivosti dat a když jsme se rozhlédli po internetu, narazili jsme na [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology).
+Potřebovali jsme už tedy jen metodu klasifikace citlivosti dat a když jsme se rozhlédli po internetu, narazili jsme na [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology).
 
-Vytáhli jsme si tedy entity a tabulky ze všech našich databází a začali je jednotlivě klasifikovat. Po vzoru již zmíněné [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology) jsme si určili sedm pro nás důležitých kritérií. Protože v jednom člověku by se všechna naše data nedala v rozumném čase ohodnotit, nastavili jsme si základní kotvy, o které se můžeme opřít:
+Vytáhli jsme si tedy entity a tabulky ze všech našich databází a začali je jednotlivě klasifikovat. Po vzoru již zmíněné [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) jsme si určili sedm pro nás důležitých kritérií. Protože v jednom člověku by se všechna naše data nedala v rozumném čase ohodnotit, nastavili jsme si základní kotvy, o které se můžeme opřít:
 
 ### 1) confidentiality - citlivost dat s ohledem na GDPR
 * 0 – veřejná data, id, ...

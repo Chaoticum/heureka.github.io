@@ -22,7 +22,7 @@ Jeden ze způsobů jak syntetizér bez námahy vyzkoušet je zapnout si terminá
 
 Je možné, že zrovna tenhle hlas nebudete mít v systému předinstalován, ale hlasy se dají kdyžtak [snadno doinstalovat][6]
 
-Příkaz say toho ale umí mnohem víc, kdyžtak zavolejte panu manovi, který toho o příkazech ví ze všech nejvíce: 
+Příkaz say toho ale umí mnohem víc, kdyžtak zavolejte panu manovi, který toho o příkazech ví ze všech nejvíce:
 
 `man say`
 
@@ -32,7 +32,7 @@ Druhý způsob jak syntetizér použít, je spíchnout jednoduchou macOS appku, 
 
 ## Co s tím?
 
-Protože máme rádi katastrofické zprávy, spíchli jsme jednoduchou appku, která čte RSS idnes.cz, kanál "zprávy" (pro otrlé je pak kanál "ona", modří už vědí...) a přečte se vždy jen nadpis článku. Kdyby se četl celý článek, trvalo by to 100 let a lidi by to obtěžovalo, ale tím, že se přečte jen nadpis, tak to nechává spoustu prostoru pro představivost, co že se to vlastně stalo. Můj favorit za poslední dobu je třeba "Zadržený rváč bušil na služebně hlavou do zdi, pak kousl policistu do nohy". 
+Protože máme rádi katastrofické zprávy, spíchli jsme jednoduchou appku, která čte RSS idnes.cz, kanál "zprávy" (pro otrlé je pak kanál "ona", modří už vědí...) a přečte se vždy jen nadpis článku. Kdyby se četl celý článek, trvalo by to 100 let a lidi by to obtěžovalo, ale tím, že se přečte jen nadpis, tak to nechává spoustu prostoru pro představivost, co že se to vlastně stalo. Můj favorit za poslední dobu je třeba "Zadržený rváč bušil na služebně hlavou do zdi, pak kousl policistu do nohy".
 
 Přidali jsme tento [skvělý program][4] na našem build serveru do crontabu, připojili k němu repráky a jako výsledek je, že si můžeme v oddělení vývoje užít 3x denně čerstvé zprávy o tom kdo zemřel, kdo koho okradl a kdo neumyl nádobí.
 
@@ -42,10 +42,10 @@ No a v ten moment řiká Jirka: "Hele, co tam dát takovou tu znělku co hrajou 
 
 Trvalo to asi 5 minut a posunulo to celej rozhlas na úplně novej level!
 
-Protože to slavilo v kanclu úspěch, Víťa napsal [jednoduchej bash skript][5], který nám náhodně vybere kam máme jít na oběd, já jsem upravil předčítač tak, aby pokud se spustí bez argumentů, tak četl RSS a pokud se mu předá jako argument text, tak ho to přečte. No a pak se to samozřejmě přidalo na do crontabu na čas kdy chodíme na oběd. 
+Protože to slavilo v kanclu úspěch, Víťa napsal [jednoduchej bash skript][5], který nám náhodně vybere kam máme jít na oběd, já jsem upravil předčítač tak, aby pokud se spustí bez argumentů, tak četl RSS a pokud se mu předá jako argument text, tak ho to přečte. No a pak se to samozřejmě přidalo na do crontabu na čas kdy chodíme na oběd.
 
 ## Co s tim dál?
-Další možné nápady na vylepšení jsou například takové, že by to mohlo běžet jako server a propojit to se Slackem. Takže by se vyrobil ve Slacku vlastní příkaz, např. `/rozhlas "bla"`, ten by to poslal přes HTTP volání do zmíněného serveru a bylo by to. Samozřejmě by bylo ale třeba udržet za pomoci biče, aby se to nezneužívalo. 
+Další možné nápady na vylepšení jsou například takové, že by to mohlo běžet jako server a propojit to se Slackem. Takže by se vyrobil ve Slacku vlastní příkaz, např. `/rozhlas "bla"`, ten by to poslal přes HTTP volání do zmíněného serveru a bylo by to. Samozřejmě by bylo ale třeba udržet za pomoci biče, aby se to nezneužívalo.
 
 No a odtud je už jen krůček například na hook při deployi.  
 
@@ -58,11 +58,11 @@ Takováhle kravina vznikla asi za 2 hodiny a pozvedla hladinu humoru v kancelá�
 
 
 
-[1]:https://itunes.apple.com/cz/app/heureka-app/id436106975?mt=8
+[1]:https://apps.apple.com/cz/app/heureka-app/id436106975
 
 [2]:https://play.google.com/store/apps/details?id=cz.ursimon.heureka.client.android&hl=cs
 
 [3]:https://developer.apple.com/documentation/appkit/nsspeechsynthesizer
 [4]:https://github.com/filipmelik/news-speaker
 [5]:https://github.com/filipmelik/lunch-suggestor
-[6]:http://osxdaily.com/2011/07/25/how-to-add-new-voices-to-mac-os-x/
+[6]:https://osxdaily.com/2011/07/25/how-to-add-new-voices-to-mac-os-x/

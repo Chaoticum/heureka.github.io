@@ -26,7 +26,7 @@ Kde byl největší problém a jak jsme se z toho poučili? Jak šel sled událo
 * 6.2.2020 09:00 - Spammer přišel na Heureku poprvé a obhlíží si terén.
 * 18.2.2020 18:00 (úterý) - Spammer začíná vkládat recenze na Pneumatiky. Vždy zkouší 3x jeden produkt, přidá kolem 30 recenzí.
 * 19.2. 2020 (středa) - Spam běží skoro celý den, nejvíce večer. Naše oddělení, které se stará o content, o tom ví, ale netuší velikost problému. Jednotky spam recenzí jsou totiž zvyklí mazat na denní bázi.
-* 20.2.2020 (čtvrtek) - Product Owner oblasti přidávání recenzí při pravidelné kontrole dat naráží na neobvyklý nárůst recenzí přidaných z webu. Začínáme zjišťovat rozsah škod. 
+* 20.2.2020 (čtvrtek) - Product Owner oblasti přidávání recenzí při pravidelné kontrole dat naráží na neobvyklý nárůst recenzí přidaných z webu. Začínáme zjišťovat rozsah škod.
 * čtvrtek dopoledne - Kontrolujeme počty a **zjišťujeme příčinu**. Objevujeme, že jde o masivní spam.
 * čtvrtek 12:56 - Narychlo mažeme uživatele a blokujeme IP adresu, ze které spamuje.
 * čtvrtek 13:30 - Mažeme vytvořené uživatele z celého rozsahu (přes 700 účtů) včetně recenzí a postupně blokujeme rozsahy. Dáváme vědět oddělení Contentu, že o tom víme. Tato oprava dočasně zabrala, od 15:00 je klid.
@@ -86,9 +86,9 @@ A v neposlední řadě nás práce ohledně spammera zdržela od naplánované p
 
 Jakmile bylo po všem, všichni zúčastnění jsme si společně sedli a celý problém podrobně rozebrali.
 
-Za předchozí roky v monolitu Heureky vzniklo spoustu přešlapů, které si neseme dodnes. V současné době celou starou Heureku přepisujeme [do responzivního designu](/jak-pripravujeme-novou-responzivni-heureku) a spolu s tím se věnujeme i přepisu funkčních celků [do mikroslužeb](/menimeheureku-chystame-mezinarodni-oneplatform/), kde všechny tyto přešlapy opravujeme nebo řešíme lépe. Není bohužel v našich silách všechno vyřešit najednou. Jde o postupný a dlouhotrvající proces a není tak divu, že občas tvrdě narazíme, jako nyní.
+Za předchozí roky v monolitu Heureky vzniklo spoustu přešlapů, které si neseme dodnes. V současné době celou starou Heureku přepisujeme [do responzivního designu](/jak-pripravujeme-novou-responzivni-heureku/) a spolu s tím se věnujeme i přepisu funkčních celků [do mikroslužeb](/menimeheureku-chystame-mezinarodni-oneplatform/), kde všechny tyto přešlapy opravujeme nebo řešíme lépe. Není bohužel v našich silách všechno vyřešit najednou. Jde o postupný a dlouhotrvající proces a není tak divu, že občas tvrdě narazíme, jako nyní.
 
-**Hlavním problémem** byly nezabezpečené formuláře ve starém monolitu, neměli jsme CSRF ochranu a captchu jsme měli jen pro nepřihlášené uživatele. Spammer si mohl vytvořit stovky účtu z jedné IP adresy, i zde chybí sofistikovaná ochrana. Rovněž byl problém, že jsme na přidávané příspěvky neměli žádné metriky nebo alerty, které by nás včas upozornily na nekalou aktivitu. V rámci oprav a úprav jsme se také hůře orientovali ve starém monolitickém kódu. 
+**Hlavním problémem** byly nezabezpečené formuláře ve starém monolitu, neměli jsme CSRF ochranu a captchu jsme měli jen pro nepřihlášené uživatele. Spammer si mohl vytvořit stovky účtu z jedné IP adresy, i zde chybí sofistikovaná ochrana. Rovněž byl problém, že jsme na přidávané příspěvky neměli žádné metriky nebo alerty, které by nás včas upozornily na nekalou aktivitu. V rámci oprav a úprav jsme se také hůře orientovali ve starém monolitickém kódu.
 
 ## Stanovili jsme si konkrétní kroky, co musíme upravit
 

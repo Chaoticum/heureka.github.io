@@ -9,7 +9,7 @@ categories: [blog, seo]
 imageUrl: /assets/satan-seo-subdomeny-i/conway.jpg
 ---
 
-Využití subdomén jako základního strukturálního elementu není žádná velká novinka. Heureka díky tomu získala téměř legendární pověst. Od založení našeho webu uplynulo více než 10 let. Doba pokročila. Webové technologie se vyvíjí kupředu mílovými kroky. Výchozí podmínky pro přežití v internetové divočině se mění každý den. Ať už vlivem vývojářských zásahů, updaty vyhledávačů nebo aktivitami webmasterů konkurenčních webů. Panta rhei.[[1]](#Poznámky) Vše plyne. A podléhá nevyhnutelným změnám v nezastavitelném kyberprostoru.
+Využití subdomén jako základního strukturálního elementu není žádná velká novinka. Heureka díky tomu získala téměř legendární pověst. Od založení našeho webu uplynulo více než 10 let. Doba pokročila. Webové technologie se vyvíjí kupředu mílovými kroky. Výchozí podmínky pro přežití v internetové divočině se mění každý den. Ať už vlivem vývojářských zásahů, updaty vyhledávačů nebo aktivitami webmasterů konkurenčních webů. Panta rhei.[^1] Vše plyne. A podléhá nevyhnutelným změnám v nezastavitelném kyberprostoru.
 
 Nedává smysl se schovávat za pozlátko legend, SEO mýtů a nesmyslné fikce. Žijeme v době, kdy jsou dezinformace na vzestupu a je třeba s tímto fenoménem bojovat. Rozhodli jsme se proto poodhalit útroby jednoho z největších českých webů. Trošku tím snad přispějeme k vzdělávání nejen odborné veřejnosti. Především však chceme rozbít spoustu nepravdivých informací a „mýtus subdomény“.
 
@@ -25,13 +25,13 @@ Rovnou hned zkraje je nutné vyvrátit jeden z nejrozšířenějších mýtů. D
 
 Replikovat nějaký proces nebo výsledek bez detailní znalosti všech okolností je zpravidla odsouzeno k neúspěchu. Domnívat se, že subdomény jsou zárukou úspěchu a snažit se to napodobit, je ekvivalentem úklidu toalet bez použití jakýchkoliv úklidových a čisticích prostředků.
 
-Detail, který zpravidla nevidíte, je ten, že uklízečka používá mop vymáchaný v kýblu s čistou vodou a Savem.[[2]](#Poznámky) Výsledkem její činnosti je čistá toaleta. Výsledkem neodborně replikované činnosti s absencí pravidelně měněné vody a adekvátních prostředků bude místnost, kam se většina uživatelů nebude chtít vracet.
+Detail, který zpravidla nevidíte, je ten, že uklízečka používá mop vymáchaný v kýblu s čistou vodou a Savem.[^2] Výsledkem její činnosti je čistá toaleta. Výsledkem neodborně replikované činnosti s absencí pravidelně měněné vody a adekvátních prostředků bude místnost, kam se většina uživatelů nebude chtít vracet.
 
-Bez detailní znalosti celého procesu a faktického pozadí vlastně ani nemáte šanci odhalit temnější a rizikovější stranu reality. Replikujete geniální strategii nebo dobře ukrytý průšvih? Subdomény totiž klidně mohou být jen kýbl glorifikovaných pekelných sraček samotného Satana, které mnozí obdivují a považují za křišťálově čistý Rajec s příchutí kaštanu.[[3]](#Poznámky) **Úspěch, prostě a jednoduše, netkví v subdoménách**. Tečka.
+Bez detailní znalosti celého procesu a faktického pozadí vlastně ani nemáte šanci odhalit temnější a rizikovější stranu reality. Replikujete geniální strategii nebo dobře ukrytý průšvih? Subdomény totiž klidně mohou být jen kýbl glorifikovaných pekelných sraček samotného Satana, které mnozí obdivují a považují za křišťálově čistý Rajec s příchutí kaštanu.[^3] **Úspěch, prostě a jednoduše, netkví v subdoménách**. Tečka.
 
 ## Stručná historie subdomén Heureky
 
-Heureka byla založena v roce 2007.[[4]](#Poznámky) Web hned od samotného začátku využíval subdomény pro stavbu stromu kategorií. Na startu ve veřejné betě tehdy bylo přibližně 30 subdomén, které povětšinou fungují dodnes. Například `elektronika.heureka.cz`, `notebooky.heureka.cz` či `mobilni-telefony.heureka.cz`.
+Heureka byla založena v roce 2007.[^4] Web hned od samotného začátku využíval subdomény pro stavbu stromu kategorií. Na startu ve veřejné betě tehdy bylo přibližně 30 subdomén, které povětšinou fungují dodnes. Například `elektronika.heureka.cz`, `notebooky.heureka.cz` či `mobilni-telefony.heureka.cz`.
 
 ![Historický snapshot z Web Archive. Rok 2007 a beta verze Heureky.](/assets/satan-seo-subdomeny-i/historical-heureka.jpg "Historický snapshot z Web Archive. Rok 2007 a beta verze Heureky.")
 
@@ -58,7 +58,7 @@ Subdomény jako základní stavební prvek byly z určitého hlediska geniální
 
 Komplexita webu již během prvních let své existence narostla do dlouhodobě neudržitelného a neanalyzovatelného stavu. Desítky tisíc subdomén a stovky miliard URL. Někde velice silně a kvalitně propojené pomocí logických vazeb. Někde zase propojení připomínalo spíše úzké hrdlo láhve blokující efektivní ranking a crawling. A naopak na okrajích systémů naprosto nekontrolovatelně bují „nádory” v podobě gigantických spider traps, masivních sebereplikujících se duplicit a thin contentu.
 
-Celkově se bavíme o počtu URL, který se pohybuje přes sextilion. 20^21. 1 000 000 000 000 000 000 000 URL.[[5]](#Poznámky) Celkem bez problémů to může být i o několik řádů více. Nemá smysl se snažit dopočítat přesnějšího čísla. Sextilion už je dostatečně daleko za hranicí šílenství.
+Celkově se bavíme o počtu URL, který se pohybuje přes sextilion. 20^21. 1 000 000 000 000 000 000 000 URL.[^5] Celkem bez problémů to může být i o několik řádů více. Nemá smysl se snažit dopočítat přesnějšího čísla. Sextilion už je dostatečně daleko za hranicí šílenství.
 
 Každý web má teoreticky potenciál být nekonečným. A z určitého úhlu pohledu je každá subdoména svým způsobem samostatný web. Ve chvíli, kdy existuje 65.000 subdomén, existuje také 65.000 spících průserů s potenciálem nekonečné a nekontrolovatelné expanze.
 
@@ -66,7 +66,7 @@ Každý web má teoreticky potenciál být nekonečným. A z určitého úhlu po
 
 Způsobů, jak minimalizovat potenciální problémy s webem, je mnoho. Jedním z cílů dobrého webmastera by měla být limitace autonomního růstu webu v oblastech s potenciálem nekonečné expanze. Vyžaduje to extrémní důslednost, pozornost a poměrně hluboké znalosti mnoha oblastí.
 
-Jako rychlý příklad může posloužit známý celulární automat[[6]](#Poznámky) **Game of Life**.[[7]](#Poznámky) Na základě čtyř triviálních pravidel vzniká fascinující a až nevídaně komplexní 8-bitový „život“. Velkou výhodou experimentování s celulárními automaty je možnost omezit prostor a dobu trvání jejich existence.
+Jako rychlý příklad může posloužit známý celulární automat[^6] **Game of Life**.[^7] Na základě čtyř triviálních pravidel vzniká fascinující a až nevídaně komplexní 8-bitový „život“. Velkou výhodou experimentování s celulárními automaty je možnost omezit prostor a dobu trvání jejich existence.
 
 ![Ukázka celulárního automatu Game of Life](/assets/satan-seo-subdomeny-i/glider-gun.gif "Ukázka celulárního automatu Game of Life")
 
@@ -76,15 +76,15 @@ V subdoménovém světě pak mohou vznikat samostatné systémy, které mohou za
 
 ## Extrémní technické limity
 
-Běžné webové systémy bohužel nikdy nebudou diskrétními[[8]](#Poznámky) modely. Kyberprostor je dynamické neustále se měnící prostředí. Naštěstí alespoň pravidla existence webů a domén mají nějaké hranice. Týkají se primárně limitů DNS (Domain Name System), prohlížečů, vyhledávačů a různých protokolů.
+Běžné webové systémy bohužel nikdy nebudou diskrétními[^8] modely. Kyberprostor je dynamické neustále se měnící prostředí. Naštěstí alespoň pravidla existence webů a domén mají nějaké hranice. Týkají se primárně limitů DNS (Domain Name System), prohlížečů, vyhledávačů a různých protokolů.
 
 ### Ukázka limitů prohlížečů a DNS
 
-- Maximální povolená délka celého doménového jména je 255 znaků.[[9]](#Poznámky)
-- Maximální délka doménového labelu je 63 znaků.[[10]](#Poznámky)
+- Maximální povolená délka celého doménového jména je 255 znaků.[^9]
+- Maximální délka doménového labelu je 63 znaků.[^10]
 - Maximum potenciálních úrovních domén nižších řádů je 127.
-- Sitemaps protokol stanovuje, že v atributu <loc> musí být počet znaků menší než 2048.[[11]](#Poznámky)
-- Maximální délka URL v adresním řádku Internet Exploreru je 2083 znaků a maximální délka cesty v URL může být jen 2048 znaků.[[12]](#Poznámky)
+- Sitemaps protokol stanovuje, že v atributu <loc> musí být počet znaků menší než 2048.[^11]
+- Maximální délka URL v adresním řádku Internet Exploreru je 2083 znaků a maximální délka cesty v URL může být jen 2048 znaků.[^12]
 - Obecně doporučená a optimální délka URL je pod 2000 znaků.
 
 Napříč různými platformami pak existují různé limity. Například **Chrome** by měl v adresním řádku zvládnout až 32779 znaků. Ale obecně doporučované je držet maximální délku URL pod 2000 znaků, jak je uvedeno výše. Je to univerzální a nejvíce bezpečné řešení.
@@ -99,11 +99,11 @@ Do roku 2015 byl v GSC limit 100 properties na jeden účet. Pro Heureku s 65.00
 
 V roce 2015 se limit změnil na 1000 properties. Stačilo by teoreticky jen 65 účtů pro kompletní pokrytí Heureky.
 
-V roce 2019 přišla částečná záchrana v podobě **GSC properties na doménové úrovni**.[[13]](#Poznámky) Máme tedy konečně k dispozici data za celý web. Nicméně stále není možné filtrovat podle subdomén a pro ty klíčové tedy musíme i nadále zakládat samostatné properties. A z podstaty věci pak ani nelze subdoménová data nějakým způsobem shlukovat do logických datových celků a analyzovat je.
+V roce 2019 přišla částečná záchrana v podobě **GSC properties na doménové úrovni**.[^13] Máme tedy konečně k dispozici data za celý web. Nicméně stále není možné filtrovat podle subdomén a pro ty klíčové tedy musíme i nadále zakládat samostatné properties. A z podstaty věci pak ani nelze subdoménová data nějakým způsobem shlukovat do logických datových celků a analyzovat je.
 
 **Google Analytics** také nejsou nijak zvlášť příznivý nástroj k subdoménám. Je možné je vyhodnocovat, ale dost zásadní problém je vyhodnocení nějakého většího logického celku, například všechny subdomény, které spadají do větve kategorií foto.heureka.cz. To je možné řešit pomocí věcí jako Content Grouping. Ale základním předpokladem je správně a velice důsledně nastavená analytika.
 
-Poslední zmínka patří **access logům** a Kibaně. Ani zde není možné kvalitně vyhodnocovat cokoliv kolem subdomén. Absence možnosti použití klasických regex výrazů je ničivá. Lucene[[14]] ani jiný z mnoha integrovaných dotazovacích jazyků (DSL, KQL, RexeP) není vhodný pro tvorbu komplexnějších queries.
+Poslední zmínka patří **access logům** a Kibaně. Ani zde není možné kvalitně vyhodnocovat cokoliv kolem subdomén. Absence možnosti použití klasických regex výrazů je ničivá. Lucene[^14] ani jiný z mnoha integrovaných dotazovacích jazyků (DSL, KQL, RexeP) není vhodný pro tvorbu komplexnějších queries.
 
 Prostřednictvím subdomén jsme sami sebe dlouhodobě omezili v mnoha věcech. Detailní analytika nebyla možná. Pracovali jsme pouze se zlomkem dat, se kterým nebylo možné mít nad webem adekvátní kontrolu.
 
@@ -111,9 +111,9 @@ Prostřednictvím subdomén jsme sami sebe dlouhodobě omezili v mnoha věcech. 
 
 Po určitém čase začalo na webu docházet v nepravidelných intervalech k „náhodným“ problémům. Drobné a zdánlivě neškodné vývojové zásahy v kombinaci s nedůsledně nastavenými pravidly chování webu způsobily rozsáhlé řetězové reakce, které se dokázaly zacyklit v potenciálně nekonečném počtu iterací.
 
-Díky nedokonalostem v analytice a absencí kompletních dat z Google Search Console jsme byli z určité části slepí vůči mnoha existujícím problémům. Dostali jsme se na takzvanou „hranu chaosu“.[[15]](#Poznámky)
+Díky nedokonalostem v analytice a absencí kompletních dat z Google Search Console jsme byli z určité části slepí vůči mnoha existujícím problémům. Dostali jsme se na takzvanou „hranu chaosu“.[^15]
 
-Jak již bylo nastíněno. Weby nejsou diskrétními systémy. Jsou ovlivňované mnoha externími vlivy. Ale také se nejedná o čistě stochastické[[16]](#Poznámky) a nekonečné systémy. Ve svém jádru weby podléhají sadě relativně jednoduchých pravidel a vzorců chování. Úkolem webmastera je tyto pravidla znát a umět je správně nastavit. V praxi se často jedná o různé fail-safe mechanismy.[[17]](#Poznámky) Například automatické redirecty z HTTP na HTTPS. Ošetření lomítek na konci URL. A tak podobně.
+Jak již bylo nastíněno. Weby nejsou diskrétními systémy. Jsou ovlivňované mnoha externími vlivy. Ale také se nejedná o čistě stochastické[^16] a nekonečné systémy. Ve svém jádru weby podléhají sadě relativně jednoduchých pravidel a vzorců chování. Úkolem webmastera je tyto pravidla znát a umět je správně nastavit. V praxi se často jedná o různé fail-safe mechanismy.[^17] Například automatické redirecty z HTTP na HTTPS. Ošetření lomítek na konci URL. A tak podobně.
 
 Postupem času se minimalizací či ideálně eliminací nekontrolovatelných (chaotických) elementů stává z webu entita řízená pevně stanovenými pravidly. Vnitřní změny se stávají lépe předvídatelnými, spočitatelnými a měřitelnými.
 
@@ -158,36 +158,36 @@ Texty mohou obsahovat pokročilé koncepty a modely, které nejsou v oblasti SEO
 
 ## Poznámky:
 
-> [1] Panta rhei: [https://en.wikipedia.org/wiki/Heraclitus](https://en.wikipedia.org/wiki/Heraclitus).
+> [^1] Panta rhei: [https://en.wikipedia.org/wiki/Heraclitus](https://en.wikipedia.org/wiki/Heraclitus).
 >
-> [2] Savo. Oblíbený čisticí prostřek, silná chemikálie, žíravina. Nemá léčivý efekt, nenahrazuje očkování!
+> [^2] Savo. Oblíbený čisticí prostřek, silná chemikálie, žíravina. Nemá léčivý efekt, nenahrazuje očkování!
 >
-> [3] Máte rádi kaštany? Podělte se s námi o zkušenosti s vodou Rajec Kaštan: [https://vody.heureka.cz/rajec-kastan-1_5l-pet/](https://vody.heureka.cz/rajec-kastan-1_5l-pet/).
+> [^3] Máte rádi kaštany? Podělte se s námi o zkušenosti s vodou Rajec Kaštan: [https://vody.heureka.cz/rajec-kastan-1_5l-pet/](https://vody.heureka.cz/rajec-kastan-1_5l-pet/).
 >
-> [4] O Heurece: [https://cs.wikipedia.org/wiki/Heureka.cz](https://cs.wikipedia.org/wiki/Heureka.cz).
+> [^4] O Heurece: [https://cs.wikipedia.org/wiki/Heureka.cz](https://cs.wikipedia.org/wiki/Heureka.cz).
 >
-> [5] Používáme anglosaské číslovky, kde výraz „sextilion“ označuje 10^21: [https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1021](https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1021).
+> [^5] Používáme anglosaské číslovky, kde výraz „sextilion“ označuje 10^21: [https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1021](https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)#1021).
 >
-> [6] Celulární automaty: [https://en.wikipedia.org/wiki/Cellular_automaton](https://en.wikipedia.org/wiki/Cellular_automaton).
+> [^6] Celulární automaty: [https://en.wikipedia.org/wiki/Cellular_automaton](https://en.wikipedia.org/wiki/Cellular_automaton).
 >
-> [7] Game of Life: [https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+> [^7] Game of Life: [https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 >
-> [8] Diskrétní matematika: [https://en.wikipedia.org/wiki/Discrete_mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics).
+> [^8] Diskrétní matematika: [https://en.wikipedia.org/wiki/Discrete_mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics).
 >
-> [9] Různé limity URL viz odstavec 2.3.4 v RFC 1035: [https://www.ietf.org/rfc/rfc1035.txt](https://www.ietf.org/rfc/rfc1035.txt).
+> [^9] Různé limity URL viz odstavec 2.3.4 v RFC 1035: [https://www.ietf.org/rfc/rfc1035.txt](https://www.ietf.org/rfc/rfc1035.txt).
 >
-> [10] Viz též poznámka 9.
+> [^10] Viz též poznámka 9.
 >
-> [11] Limit znaků v sitemapách viz sekce XML tag definitions: [https://www.sitemaps.org/protocol.html](https://www.sitemaps.org/protocol.html).
+> [^11] Limit znaků v sitemapách viz sekce XML tag definitions: [https://www.sitemaps.org/protocol.html](https://www.sitemaps.org/protocol.html).
 >
-> [12] Znaky v adresním řádku IE: [https://support.microsoft.com/cs-cz/help/208427/maximum-url-length-is-2-083-characters-in-internet-explorer](https://support.microsoft.com/cs-cz/help/208427/maximum-url-length-is-2-083-characters-in-internet-explorer).
+> [^12] Znaky v adresním řádku IE: [https://support.microsoft.com/cs-cz/help/208427/maximum-url-length-is-2-083-characters-in-internet-explorer](https://support.microsoft.com/cs-cz/help/208427/maximum-url-length-is-2-083-characters-in-internet-explorer).
 >
-> [13] Domain Level v GSC: [https://webmasters.googleblog.com/2019/02/announcing-domain-wide-data-in-search.html](https://webmasters.googleblog.com/2019/02/announcing-domain-wide-data-in-search.html).
+> [^13] Domain Level v GSC: [https://webmasters.googleblog.com/2019/02/announcing-domain-wide-data-in-search.html](https://webmasters.googleblog.com/2019/02/announcing-domain-wide-data-in-search.html).
 >
-> [14] Lucene: [https://www.elastic.co/guide/en/kibana/current/lucene-query.html](https://www.elastic.co/guide/en/kibana/current/lucene-query.html).
+> [^14] Lucene: [https://www.elastic.co/guide/en/kibana/current/lucene-query.html](https://www.elastic.co/guide/en/kibana/current/lucene-query.html).
 >
-> [15] Hrana chaosu: [https://en.wikipedia.org/wiki/Edge_of_chaos](https://en.wikipedia.org/wiki/Edge_of_chaos).
+> [^15] Hrana chaosu: [https://en.wikipedia.org/wiki/Edge_of_chaos](https://en.wikipedia.org/wiki/Edge_of_chaos).
 >
-> [16] Stochastika: [https://cs.wikipedia.org/wiki/Stochastika](https://cs.wikipedia.org/wiki/Stochastika).
+> [^16] Stochastika: [https://cs.wikipedia.org/wiki/Stochastika](https://cs.wikipedia.org/wiki/Stochastika).
 >
-> [17] Fail-safe: [https://en.wikipedia.org/wiki/Fail-safe](https://en.wikipedia.org/wiki/Fail-safe).
+> [^17] Fail-safe: [https://en.wikipedia.org/wiki/Fail-safe](https://en.wikipedia.org/wiki/Fail-safe).
