@@ -38,7 +38,7 @@ Cíl udělat z 60 lidí ambasadory OKRek je zkrátka jiný, než když chcete 60
 
 {% include image.html
       img="/assets/celou-heureka-group-ridime-okrkama/onboarding.jpg"
-      title="Honza Herbrich - Product Owner plzeňského týmu (na fotce úplně vlevo) se stal jedním z OKR ambassadorů. Na fotce je se svým týmem zachycen krátce po tom, co předal své OKR znalosti nabyté na workshopu." %}
+      title="Honza Herbrich –⁠ Product Owner plzeňského týmu (na fotce úplně vlevo) se stal jedním z OKR ambassadorů. Na fotce je se svým týmem zachycen krátce poté, co mu předal své OKR znalosti nabyté na workshopu." %}
 
 ## Měsíc na přípravu online workshopu
 
