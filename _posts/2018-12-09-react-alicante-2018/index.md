@@ -27,6 +27,6 @@ Rozepisovat tady jeden talk po druhém nebudu, ale můžete mrknout na [Confpad 
 [smashingconferences]: https://smashingconf.com/
 [fullstackfest]: https://fullstackfest.com/
 [pyvo]: https://pyvo.cz/
-[reactalicante]: http://reactalicante.es/
+[reactalicante]: https://reactalicante.es/
 [confpad]: https://confpad.io/#/2018-09-13-react-alicante-2018
 [top-pick]: https://www.youtube.com/watch?v=_kVxXV0TQ7M

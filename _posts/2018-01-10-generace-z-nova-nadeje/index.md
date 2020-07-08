@@ -22,13 +22,13 @@ Zpráva byla velmi věcná. Obsahovala správně pojmenovaný problém s detailn
 
 Všechno nasvědčovalo tomu, že autora upozornění bychom nejspíše potkali na některé vývojářské konferenci a že bude nejspíše zaměstnán některým webovým projektem, tak jako my. No a jelikož je záhodno udržovat v tak lidsko-zdrojově nedostatečném oboru dobré vztahy s potenciálními kolegy, a jelikož nás tak jako tak hřálo u srdce, že k nám někdo byl hodný, nechtěli jsme nechat věc bez odezvy. A ani suchá odpověď mailem nám nepřišla jako zcela adekvátní reakce. Po krátkém slackovém brainstormu jsme se shodli, že mu k osobnímu tištěnému dopisu do obálky přibalíme jedno z našich limitně-edičních triček.
 
-## Side-effect zjišťování konfekční velikosti 
+## Side-effect zjišťování konfekční velikosti
 
 Jenže! Když někomu chcete jako poděkování poslat něco na sebe, chtělo by to znát jeho velikost, ne? Nastal tedy čas zneužít strašidelné otevřenosti sociálních sítí za účelem odhadu konfekční velikosti našeho pisatele. Netrvalo dlouho, a spadla nám čelist. Ten kluk bude letos končit základku! Přechytračil nás někdo, komu rok narození v čerstvě vytištěné občance začíná dvojkou! A co víc, tím jak se zachoval, strčil do kapsy mnoho našich kolegů  "dospěláků". Mohl si na Twitteru užít svých pár lajků slávy. Místo toho ale zvolil šetrný způsob varování a dal nám tak šanci chybu opravit bez výsměchu.
 
 ## Třetí "věc" v obálce
 
-Dopis jsme upravili tak, aby náležitě vyjádřil náš ú- a ob-div. A připojili ještě jednu maličkost. Všechny nás totiž začal Thomas zajímat a zatoužili jsme se s ním osobně setkat. I pro něj by to nakonec nemuselo být úplně bez zajímavosti, podívat se, jak funguje projekt jako Heureka zevnitř. Proto stálo v dopise i pozvání na exkurzi do našich pražských kanceláří. Zalepili jsme obálku, odeslali ji na adresu odhadnutou z whois domény <https://thomasorlita.cz/> na které provozuje svůj web a plni naděje trpělivě čekali na odpověď.
+Dopis jsme upravili tak, aby náležitě vyjádřil náš ú- a ob-div. A připojili ještě jednu maličkost. Všechny nás totiž začal Thomas zajímat a zatoužili jsme se s ním osobně setkat. I pro něj by to nakonec nemuselo být úplně bez zajímavosti, podívat se, jak funguje projekt jako Heureka zevnitř. Proto stálo v dopise i pozvání na exkurzi do našich pražských kanceláří. Zalepili jsme obálku, odeslali ji na adresu odhadnutou z whois domény <https://thomasorlita.com/> na které provozuje svůj web a plni naděje trpělivě čekali na odpověď.
 
 ![dopis](/assets/generace-z-nova-nadeje/dopis-s-trikem.jpg)
 

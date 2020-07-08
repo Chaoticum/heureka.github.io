@@ -9,7 +9,7 @@ categories: [blog, design]
 imageUrl: /assets/mobile-first/1-mvp-mlp.png
 ---
 
-Produktový tým Heureky je složen z odborníků ve svém oboru a redesign neděláme formou „pojďme to udělat hezké“, ale každá připravovaná část podléhá BI analýze, uživatelskému testování, návrhu nového UI a tvorbě prototypů, které pak zkoumáme na uživatelských testech. Zároveň u každé feature zkoumáme, jak je využívaná a konverzní. Následně ji pak ladíme nebo mažeme, abychom se mohli soustředit na hlavní business. 
+Produktový tým Heureky je složen z odborníků ve svém oboru a redesign neděláme formou „pojďme to udělat hezké“, ale každá připravovaná část podléhá BI analýze, uživatelskému testování, návrhu nového UI a tvorbě prototypů, které pak zkoumáme na uživatelských testech. Zároveň u každé feature zkoumáme, jak je využívaná a konverzní. Následně ji pak ladíme nebo mažeme, abychom se mohli soustředit na hlavní business.
 
 ## #1 Discovery
 
@@ -42,13 +42,13 @@ Vytvořili jsme knihovnu grafických elementů – Heureka styleguide, která n�
 
 Největší výhodou společné styleguide je, že pokud někdo z jiných týmů/vývojářů potřebuje do svého produktu přidat komponentu nebo element (např. tlačítko), stačí použít správnou CSS třídu s HTML kódem a je hotovo.
 
-Naší styleguide najdete na adrese [https://heureka.cz/ui/](https://heureka.cz/ui/). 
+Naší styleguide najdete na adrese [https://www.heureka.cz/ui/](https://www.heureka.cz/ui/). 
 
 #dyckySTYLEGUIDE
 
 {% include image.html
       img="/assets/mobile-first/2-heureka-styleguide.png"
-      title="Heureka Styleguide" 
+      title="Heureka Styleguide"
       width="550px"
       %}
 
@@ -64,7 +64,7 @@ Pro tyto testy používáme vlastní nástroj, který je součástí naší knih
 
 Výkon je otestovaný, jedeme dál
 
-Po otestování stability nové responzivní části (např. Detailu produktu) přichází na řadu uživatelské (kvantitativní) AB testy, k čemuž nejčastěji používáme nástroj Google Optimize. 
+Po otestování stability nové responzivní části (např. Detailu produktu) přichází na řadu uživatelské (kvantitativní) AB testy, k čemuž nejčastěji používáme nástroj Google Optimize.
 
 Získáváme tak postupně feedback, jak si vedou jednotlivé verze a ladíme to k úplné dokonalosti. Také se zaměřujeme na optimalizaci konverzí, více v článku Workshop o CRO s Ondrou Ilinčevem. Často je to dlouhý a pečlivý proces.
 
@@ -77,7 +77,7 @@ Během testování nové verze zároveň sbíráme zpětnou vazbu nejen z číse
 
 {% include image.html
       img="/assets/mobile-first/8-heatmap.png"
-      title="Heatmapa uživatelských iterakcí na produktovém detailu na mobilu" 
+      title="Heatmapa uživatelských iterakcí na produktovém detailu na mobilu"
       width="300px"
       %}
 
@@ -91,7 +91,7 @@ Poslední částí, která na m.heurece responzivní není, je nákupní proces 
 ## #7 Přípravy na Desktop
 V současné chvíli se připravujeme na první testy nové responzivní verze na desktopové Heurece. Postupovat budeme stejným způsobem, jako jsme to dělali na m.heurece. Musíme také doladit logiku pro práci s jinými adresami a přesměrováním na části, které v nové Heurece zatím nemáme.
 
-Současně s prvním testováním připravujeme jednotlivé featury, co nám zbývají pro kompletní desktopovou verzi např. porovnávání produktů. 
+Současně s prvním testováním připravujeme jednotlivé featury, co nám zbývají pro kompletní desktopovou verzi např. porovnávání produktů.
 
 #dyckyDESKTOP
 
@@ -101,25 +101,25 @@ Během prvních testů na Desktopu budeme sledovat to samé, co jsme dělali na 
 **Ochutnávka nové Heureky:**
 {% include image.html
       img="/assets/mobile-first/7-homepage.png"
-      title="Nová responzivní homepage" 
+      title="Nová responzivní homepage"
       width="280px"
       %}
 
 {% include image.html
       img="/assets/mobile-first/6-search.png"
-      title="Nové vyhledávání" 
+      title="Nové vyhledávání"
       width="280px"
       %}
 
 {% include image.html
       img="/assets/mobile-first/5-category.png"
-      title="Nová responzivní kategorie" 
+      title="Nová responzivní kategorie"
       width="280px"
       %}
 
 {% include image.html
       img="/assets/mobile-first/4-product-detail.png"
-      title="Nový responzivní produktový detail" 
+      title="Nový responzivní produktový detail"
       width="280px"
       %}
 

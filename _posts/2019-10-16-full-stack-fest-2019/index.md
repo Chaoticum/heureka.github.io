@@ -43,7 +43,7 @@ Sarah mluvila o tom, jak jsou důležité animace v kontextu webových stránek 
 
 ![HTTP3](/assets/2019-10-16-full-stack-fest-2019/http3.png)
 
-Daniel, tvůrce nástroje curl, který najdeme prakticky všude, nastínil jak bude vypadat příští (třetí) generace HTTP. Spoiler alert: UDP + QUIC. Zmínil problémy, které vyvstávají z implementace stávajících protokolů, co a jak se snažili různé verze řešit. A jaké problémy by měla řešit nová verze HTTP. 
+Daniel, tvůrce nástroje curl, který najdeme prakticky všude, nastínil jak bude vypadat příští (třetí) generace HTTP. Spoiler alert: UDP + QUIC. Zmínil problémy, které vyvstávají z implementace stávajících protokolů, co a jak se snažili různé verze řešit. A jaké problémy by měla řešit nová verze HTTP.
 
 
 ### Spreading the JAM throughout your CI workflow
@@ -55,7 +55,7 @@ Přednáška ukazující, že většina příkladů lze vysvětlit na baseballu.
 ### CSS Houdini Today
 > by Una Kravets
 
-Una předvedla skvělou ukázku možností, které přináší Houdini a jak může změnit vzhled webových stránek. Houdini není zatím moc podporovaný prohlížeči, ale podpora se postupně zlepšuje. V Chrome je možné již nyní zapnout jeho podporu skrze příznak chrome://flags/#enable-experimental-web-platform-features. Jeho povolení vám dovolí skoro doslova programovat v CSS. Pro příklady nahlédni zde [extra-css](https://extra-css.netlify.com/).
+Una předvedla skvělou ukázku možností, které přináší Houdini a jak může změnit vzhled webových stránek. Houdini není zatím moc podporovaný prohlížeči, ale podpora se postupně zlepšuje. V Chrome je možné již nyní zapnout jeho podporu skrze příznak chrome://flags/#enable-experimental-web-platform-features. Jeho povolení vám dovolí skoro doslova programovat v CSS. Pro příklady nahlédni zde [extra-css](https://extra-css.netlify.app/).
 
 
 ### Standardizing JavaScript Decorators in TC39
