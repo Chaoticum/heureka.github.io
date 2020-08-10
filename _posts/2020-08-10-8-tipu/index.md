@@ -49,11 +49,11 @@ Všechny účastníky workshopu jsme prosili, aby zůstali doma. Nejen z hygieni
 
 Na workshop naši teamleadi, včetně tedy našeho top managementu dedikovali hodně času –⁠ pět pátečních dopolední není málo času. Dostávali úkoly, které museli průběžně plnit a to poslední, co jsme chtěli bylo, aby měli pocit, že to jsou úkoly pro úkoly. Neustále jsme tedy hledali cesty, jak jim ukázat, že jejich vypracovávání úkolů sledujeme. Nabízet jim rady i ocenění, když se jim něco povedlo. A to nejen v jedna-jedna komunikaci na Slacku, ale i na společných callech. Lukáš si psal poznámky, koho při společném workshopu za co konkrétně má ocenit. Bylo super vidět, jak konkrétní pochvala fungovala. Můžeme jen doporučit.
 
-## #7 Pokud eventy organizujete, zařiďte si, abyste tu druhou půlku dne mohli mít volno –⁠ vést on-line workshop je fakt náročné.
+## #7 Pokud eventy organizujete, zařiďte si, abyste tu druhou půlku dne mohli mít volno –⁠ vést on-line workshop je fakt náročné
 
 Vést workshop na dálku je náročnější, než ho vést offline. Musíte sledovat mnohem víc věcí, nemáte přímá kontakt s těmi, pro které workshop děláte. Kdyby to šlo, šel by se celý org. tým po workshopu vyspat. Ale spánek jsme zatím vždy odložili. Konec workshopu znamenal, že je třeba poslat kolegům zadání úkolů jako text, nachystat průběžnou komunikaci a dobře připravit flow dalšího setkání i toho, jak do něj zařadíme vypracované úkoly. Prostě jsme nasedli do rychlovlaku a chtěli jsme ho v pořádku dovézt do cíle. Na konci každého dne jsme si jako org. skupina sedli a udělali si debriefing celého průběhu.
 
-## #8 Ukončením sérií workshopů vaše práce nekončí. Spíš začíná.
+## #8 Ukončením sérií workshopů vaše práce nekončí. Spíš začíná
 
 Po každém workshopu nás čekala další práce –⁠ na domácích úkolech, přípravě dalších zadání či dalšího kola workshopu. A ani po posledním společném pracovním setkání, kde jsme dali dohromady všechny zkušenosti a poznatky našich kolegů z posledního měsíce, naše práce neskončila. To jsme jim jen ukázali začátek cesty. Teď je na ní musíme provázet dál. Nachystali jsme další videonávody, jak na Weekdone, ve kterém OKRka vedeme. Připravili další podklady, aby mohli teamleadi předat to podstatné z toho, co se naučili a se svými týmy definovat svá první OKRka. Máme spoustu nástrojů a školícího času, abychom kolegy v implementaci OKRek podpořili a musíme to dělat. Navíc nás už v srpnu čeká první průběžné celofiremní vyhodnocování OKRek. A pak se poučit a zase přenastavit.
 
