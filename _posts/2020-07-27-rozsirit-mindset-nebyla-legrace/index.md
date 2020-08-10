@@ -71,4 +71,4 @@ A třetí náš velký pomocník byla Confluence. Máme v ní náš vlastní wik
 
 Nasedli jsme do vlaku, co se nezastaví. Víme to a neudělali bychom to ani dnes jinak. Cestou to bude drncat. Občas budeme muset opravit koleje, nebo trochu uklidit ve vagonech, občas přibrzdit. Ale teď už všichni víme, proč jsme v tomhle vlaku, a že v něm jsme společně. Kdyby tohle byl jediný výsledek našeho workshopu, nebylo by to málo.
 
-V příštím článku vám kolega Jirka Huml předá osm doporučení na co se zaměřit, pokud byste chtěli udělat podobně úspěšný workhop.
+V [příštím článku](/8-tipu-jak-udelat-kvalitni-online-workshop/) vám kolega Jirka Huml předá osm doporučení na co se zaměřit, pokud byste chtěli udělat podobně úspěšný workhop.
