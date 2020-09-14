@@ -30,7 +30,7 @@ No a pointa je, že všechny týmy řeší BAU i Improvement zároveň, protože
 Identifikace pojmů BAU a Improvement nám dost pomohla v dalším přemýšlení o tom, jak zavést OKR do všech týmů. Záhy se ukázalo, že už je to vlastně jednoduché. OKR jsou tu od toho, abychom řídili a vyhodnocovali Improvement. Ale taky potřebujeme mít u každého týmu vydefinované KPI, abychom věděli, jak se týmu daří v BAU. Proto OKR a KPI dohromady ukazují, jak si tým celkově stojí.
 
 {% include image.html
-      img=" /assets/okrka-a-kpicka-2-ruzne-galaxie/bau_improvement.png" %}
+      img="/assets/okrka-a-kpicka-2-ruzne-galaxie/bau_improvement.png" %}
 
 Uvědomili jsme si, že u týmů, které byly dosud orientovány na Improvement přes OKR, potřebujeme vydefinovat a začít pravidelně sledovat KPI, aby nezapomínaly na BAU. A u týmů, co jsou orientovány na BAU a mají své KPI, zase potřebujeme zavést OKR, aby vědomě pracovaly i na Improvementu.
 
@@ -39,7 +39,7 @@ Aby KPI a OKR fungovaly, je u každého týmu klíčové, aby vlastnil něco, co
 Hlavní pointa je, že OKR jsou tady od toho, abychom se na některé KPI zaměřili a dostali jejich hodnoty na nový level. Názorný příklad je třeba konverzní poměr. Jako KPI ho sledujeme a nechceme, aby se zhoršoval. Pokud by ale ke zhoršování došlo, potřebujeme, aby na to někdo odpovědný reagoval - včas a se vším porozuměním situaci a nečekal na zadání. Na druhé straně se můžeme chtít cíleně zaměřit na zlepšení konverzního poměru. A to je případ, kdy je na řadě vytvořit OKR pro daný tým.
 
 {% include image.html
-      img=" /assets/okrka-a-kpicka-2-ruzne-galaxie/okr_kpi.png" %}
+      img="/assets/okrka-a-kpicka-2-ruzne-galaxie/okr_kpi.png" %}
 
 ## Najít a vybrat správné metriky je oříšek
 
