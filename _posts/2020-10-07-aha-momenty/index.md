@@ -2,7 +2,7 @@
 layout: post
 title: "Naše 'Aha momenty' při zavádění OKR pro 50 týmů v celé Heureka Group"
 permalink: /aha-momenty-pri-zavadeni-okr-v-heureka-group/
-date: 2020-10-07 16:00:00 +0200
+date: 2020-10-08 9:00:00 +0200
 author: Lukáš Putna
 tags: [MěnímeHeureku, OKR]
 categories: [blog, lide]
@@ -22,12 +22,11 @@ V rámci zavádění OKR do všech 50 týmů v celé Heureka Group jsme postupn�
 * Těžko zavedete OKR zdola, pokud nemáte vedení s OKR mindsetem. OKR jsou hodně o focusu – a ten týmy nezískají, pokud vedení nebude respektovat kvartální OKR a budou zadávat úkoly týmům „bokem“.
 * Je těžké opustit „projektový mindset“, určování co se přesně má udělat a kdy to bude spuštění – místo toho si řekněte, co je objective a nechte na lidech, jak toho dosáhnou.
 * Vytvořte Fail safe prostředí – úspěch objectives není nikdy garantován, obzvlášť s ambiciózním přístupem.
-* Možná budete muset svést boj i s investory – naši přišli OKR na chuť tak po roce :)
 
 ### #3 Mindset a kultura musí být na OKR ready
 * OKR podle nás vybízí k autonomii, ale ne všichni tu zodpovědnost chtějí. 
 * Musíte mít trvalou odpovědnost týmů za konkrétní [produktové oblasti](/jak-jsme-si-rozdelili-produktove-oblasti-do-tymu/), jinak to nefunguje.
-* OKR jsou o ambicióznosti, ale umožněte safe to fail prostředí.
+* OKR jsou o ambicióznosti, ale umožněte Fail safe prostředí.
 * Upřednostněte outcome mindset (versus output).
 * OKR se nemusí hodit do každého prostředí. Zvažte to. I když je firma na OKR ready, někteří to nedají.
 
