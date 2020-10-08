@@ -22,6 +22,7 @@ V rámci zavádění OKR do všech 50 týmů v celé Heureka Group jsme postupn�
 * Těžko zavedete OKR zdola, pokud nemáte vedení s OKR mindsetem. OKR jsou hodně o focusu – a ten týmy nezískají, pokud vedení nebude respektovat kvartální OKR a budou zadávat úkoly týmům „bokem“.
 * Je těžké opustit „projektový mindset“, určování co se přesně má udělat a kdy to bude spuštění – místo toho si řekněte, co je objective a nechte na lidech, jak toho dosáhnou.
 * Vytvořte Fail safe prostředí – úspěch objectives není nikdy garantován, obzvlášť s ambiciózním přístupem.
+* O smysluplnosti OKR musíte přesvědčit i vaše investory – nejlépe výsledky, což trvá, v našem případě skoro rok.
 
 ### #3 Mindset a kultura musí být na OKR ready
 * OKR podle nás vybízí k autonomii, ale ne všichni tu zodpovědnost chtějí. 
